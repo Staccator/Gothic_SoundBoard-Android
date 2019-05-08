@@ -1,0 +1,979 @@
+INFO_THORUS_DIEGOSENTME_09_01.mp3;Huh... Jeśli Diego uważa, że jesteś w porządku, to czemu SAM się tobą nie zajmie?;THORUS;nobody
+INFO_THORUS_DIEGOSENTME_09_02.mp3;Słuchaj uważnie: Diego podda cię najpierw testowi. Jeśli ON uzna, że się nadajesz, ja wpuszczę cię do zamku na spotkanie z Gomezem.;THORUS;nobody
+INFO_THORUS_DIEGOSENTME_09_03.mp3;To, co będzie później, zależy już tylko od ciebie, jasne?;THORUS;nobody
+INFO_THORUS_TRYME_09_01.mp3;To nie takie proste, chłopcze. Nowy, który chce tu do czegoś dojść, potrzebuje opiekuna.;THORUS;nobody
+INFO_THORUS_TRYME_09_02.mp3;Tym opiekunem musi być jeden z ludzi Gomeza. I to właśnie on podda cię próbie.;THORUS;nobody
+INFO_THORUS_TRYME_09_03.mp3;A jeśli narobisz kłopotów to on poniesie za nie odpowiedzialność. Takie są tutaj zasady.;THORUS;nobody
+INFO_THORUS_TRYMEAGAIN_09_01.mp3;Nie. Rzeczy, którymi zajmują się Strażnicy przerastają twoje możliwości, chłopcze.;THORUS;nobody
+INFO_THORUS_TRYMEAGAIN_09_02.mp3;Trzymaj się poleceń swojego opiekuna.;THORUS;nobody
+INFO_THORUS_TRYMEICANDOIT_09_01.mp3;Och? Aż tak ci zależy na wpadce? Hmm. Jest jedna rzecz, którą może się zająć wyłącznie człowiek nie będący w służbie Gomeza.;THORUS;nobody
+INFO_THORUS_TRYMEICANDOIT_09_02.mp3;Ale uprzedzam cię: jak to schrzanisz, będziesz miał nie lada kłopoty.;THORUS;nobody
+INFO_THORUS_MORDRAGKO_OFFER_09_01.mp3;To, co ci za chwilę powiem, musi pozostać między nami, rozumiemy się?;THORUS;nobody
+INFO_THORUS_MORDRAGKO_OFFER_09_03.mp3;Pewien człowiek z Nowego Obozu sprawia nam problemy. Nazywa się Mordrag i przywłaszczył sobie kilka rzeczy należących do Magnatów.;THORUS;nobody
+INFO_THORUS_MORDRAGKO_OFFER_09_04.mp3;Oczywiście to samo można powiedzieć o wielu Szkodnikach z Nowego Obozu, ale Mordrag ma czelność zjawiać się w NASZYM obozie i odsprzedawać NASZE rzeczy NASZYM chłopcom!;THORUS;nobody
+INFO_THORUS_MORDRAGKO_OFFER_09_05.mp3;A to już za wiele. Niestety, łajdak wie, że nie mogę z tym nic zrobić.;THORUS;nobody
+INFO_THORUS_MORDRAGKO_OFFER_09_07.mp3;Bo jest pod opieką Magów.;THORUS;nobody
+INFO_THORUS_MORDRAGKO_KILLHIM_09_01.mp3;Chcę mieć pewność, że już nigdy więcej się tu nie pojawi. Jak to osiągniesz - to już twoja sprawa.;THORUS;nobody
+INFO_THORUS_MORDRAGKO_WHERE_09_01.mp3;Kręci się przy południowej bramie, po przeciwnej stronie zamku, tuż za wejściem. Sukinsyn boi się pojawiać bliżej centrum.;THORUS;nobody
+INFO_THORUS_MORDRAGKO_MAGESPROTECT_09_01.mp3;Bo służy im za posłańca. Nasi magowie utrzymują kontakty z czarodziejami z Nowego Obozu. Często wymieniają informacje za pośrednictwem gońców.;THORUS;nobody
+INFO_THORUS_MORDRAGKO_MAGESPROTECT_09_02.mp3;Podejrzewam, że nieźle się wkurzą na wieść, że coś przydarzyło się ich kurierowi.;THORUS;nobody
+INFO_THORUS_MORDRAGKO_MAGESPROTECT_09_04.mp3;Jesteś tu nowy, nic ci nie będzie. Ale ja odpowiadam za wszystko, co robią moi ludzie. Dlatego musisz trzymać język za zębami.;THORUS;nobody
+INFO_THORUS_MORDRAGKO_MAGEPROBLEM_09_01.mp3;Tak. I to problemów, które nie łatwo rozwiązać. Kilka lat temu jeden z Cieni próbował zasztyletować we śnie Arcymistrza Magów Ognia.;THORUS;nobody
+INFO_THORUS_MORDRAGKO_MAGEPROBLEM_09_02.mp3;Faceta znaleziono potem w Zewnętrznym Pierścieniu. Jeśli chodzi o ścisłość - rozsmarowanego PO CAŁYM Zewnętrznym Pierścieniu.;THORUS;nobody
+INFO_THORUS_MORDRAGKO_MORDRAGDEAD_09_01.mp3;Chcesz powiedzieć, że go pokonałeś? Nieźle, chłopcze.;THORUS;nobody
+INFO_THORUS_MORDRAGKO_MORDRAGGONE_09_01.mp3;Wolałbym, żebyś go zabił.;THORUS;nobody
+INFO_THORUS_MORDRAGFAILED_09_00.mp3;Ty ofiaro! Kazałem ci TRZYMAĆ JĘZYK ZA ZĘBAMI!!!;THORUS;nobody
+INFO_THORUS_MORDRAGFAILED_09_01.mp3;Spartaczyłeś sprawę! Zapomnij o wszystkim, co ci powiedziałem. Nie próbuj już nic więcej zdziałać w tej sprawie!;THORUS;nobody
+INFO_THORUS_BRIBEGUARD_09_01.mp3;Za odpowiednią sumkę...;THORUS;nobody
+INFO_THORUS_BRIBEGUARD_09_02.mp3;No cóż - liczenie rudy musi potrwać odpowiednio długo. Dość długo, żeby całkowicie pochłonąć uwagę moją i moich chłopców. Korzystając z naszej nieuwagi, mógłbyś przemknąć się do środka...;THORUS;nobody
+INFO_THORUS_BRIBEGUARD_09_03.mp3;Myślę, że przeliczenie 1000 bryłek zajmie nam wystarczająco dużo czasu.;THORUS;nobody
+INFO_THORUS_BRIBEGUARD_09_04.mp3;Cóż, gdybyś dołączył do Gomeza, mógłbyś wejść do zamku za darmo.;THORUS;nobody
+INFO_THORUS_GIVE1000ORE_09_01.mp3;W porządku, idź. Tylko jak już będziesz w środku, nie wywiń czegoś głupiego, dobra?;THORUS;nobody
+INFO_THORUS_GIVE1000ORE_09_02.mp3;Próbujesz mnie okpić, chłopcze? Nie masz 1000 bryłek rudy!;THORUS;nobody
+INFO_THORUS_LETTERFORMAGES_09_01.mp3;I myślisz, że wpuszczę cię tak po prostu do środka, żebyś oddał list i zgarnął nagrodę?;THORUS;nobody
+INFO_THORUS_LETTERFORMAGES_09_03.mp3;Dobra, pokaż ten list.;THORUS;nobody
+INFO_THORUS_LETTERFORMAGES_09_05.mp3;W porządku. Już zapomniałem.;THORUS;nobody
+INFO_THORUS_READYFORGOMEZ_09_01.mp3;To ja o tym zadecyduję!;THORUS;nobody
+INFO_THORUS_READYFORGOMEZ_09_03.mp3;Hmmm...;THORUS;nobody
+INFO_THORUS_READYFORGOMEZ_09_04.mp3;Muszę przyznać, że całkiem nieźle sobie poradziłeś.;THORUS;nobody
+INFO_THORUS_READYFORGOMEZ_09_05.mp3;Niech będzie! Możesz stanąć przed Gomezem. On podejmie ostateczną decyzję co do twojego przyjęcia.;THORUS;nobody
+INFO_THORUS_READYFORGOMEZ_09_06.mp3;Od tej pory musisz radzić sobie sam, chłopcze.;THORUS;nobody
+INFO_THORUS_KRAUTBOTE_09_01.mp3;Pokaż!;THORUS;nobody
+INFO_THORUS_KRAUTBOTE_09_02.mp3;Hmmmmmm...;THORUS;nobody
+INFO_THORUS_KRAUTBOTE_09_03.mp3;W porządku, możesz iść. Udaj się prosto do siedziby Magnatów i porozmawiaj z Bartholo.;THORUS;nobody
+INFO_THORUS_KRAUTBOTE_09_04.mp3;Jak na posłańca masz przy sobie trochę za mało ziela! Mam nadzieję, że nie sprzedałeś go komuś innemu! Wróć, jak będziesz miał całą partię.;THORUS;nobody
+INFO_THORUS_KDWSIEGEL_09_01.mp3;Masz przy sobie amulet kuriera. Strażnicy nie będą cię zatrzymywali.;THORUS;nobody
+INFO_THORUS_KDWSIEGEL_09_02.mp3;Nie chcę mieć nic wspólnego z magami! Przestań mi wreszcie zawracać głowę, dobrze?;THORUS;nobody
+INFO_THORUS_KDWSIEGEL_09_03.mp3;No jaaasne... A amulet pewnie zgubiłeś, co? Albo ci ukradli, hę?;THORUS;nobody
+INFO_THORUS_STTGESCHAFFT_09_01.mp3;Gratuluję, chłopcze. Dobrze ci radzę, trzymaj się blisko Diego.;THORUS;nobody
+INFO_THORUS_STTGESCHAFFT_09_02.mp3;Do Gomeza lub Kruka idź, tylko jeśli masz coś NAPRAWDĘ ważnego do powiedzenia.;THORUS;nobody
+INFO_THORUS_PERM2_09_01.mp3;Nowy Obóz nie sprawia nam zbyt wielu kłopotów. Bardziej martwią mnie te świry z Sekty.;THORUS;nobody
+GRD_200_THORUS_GARDIST_INFO_09_02.mp3;Tak. To, co pokazałeś w kopalni, świadczy nie tylko o twojej odwadze, ale również o niepospolitej sile i umiejętnościach.;THORUS;nobody
+GRD_200_THORUS_GARDIST_INFO_09_03.mp3;Chętnie bym cię widział w szeregach straży.;THORUS;nobody
+GRD_200_THORUS_GARDIST_INFO_09_04.mp3;Ale zanim to nastąpi musisz jeszcze trochę popracować nad swoimi umiejętnościami. Tylko najlepsi mogą zostać strażnikami.;THORUS;nobody
+GRD_200_THORUS_GARDIST_INFO_09_05.mp3;Daję ci niepowtarzalną szansę. Co ty na to?;THORUS;nobody
+GRD_200_THORUS_AUFNAHME_INFO_09_02.mp3;Miło mi to słyszeć, ale najpierw muszę ci powiedzieć to, co mówię wszystkim nowym rekrutom. Słuchaj uważnie, bo nie będę się powtarzał.;THORUS;nobody
+GRD_200_THORUS_AUFNAHME_INFO_09_03.mp3;Do tej pory żyłeś na własny rachunek, ale to się od dziś zmieni. Moi ludzie trzymają się razem. Do Strażników należy dbanie o bezpieczeństwo Magnatów, rudy, obozu i kopalni.;THORUS;nobody
+GRD_200_THORUS_AUFNAHME_INFO_09_04.mp3;Ruda wydobywana jest przez Kopaczy, ale to my pilnujemy, żeby nie pożarły ich pełzacze. Pertraktacje z królem prowadzą Magnaci, ale to my dbamy o ich bezpieczeństwo.;THORUS;nobody
+GRD_200_THORUS_AUFNAHME_INFO_09_05.mp3;Dniem i nocą strzeżemy korytarzy kopalni. Dniem i nocą pilnujemy bram Obozu i pozwalamy jego mieszkańcom wieść spokojne życie.;THORUS;nobody
+GRD_200_THORUS_AUFNAHME_INFO_09_06.mp3;Na początku byliśmy tylko bezładną zgrają, ale staliśmy się siłą, z którą każdy musi się liczyć. Ciężko pracowaliśmy, by zasłużyć na tę reputację.;THORUS;nobody
+GRD_200_THORUS_AUFNAHME_INFO_09_07.mp3;Od moich ludzi oczekuję więc wyłącznie jednego: lojalności. Tylko stojąc ramię w ramię będziemy w stanie obronić to, co należy do nas...;THORUS;nobody
+GRD_200_THORUS_AUFNAHME_INFO_09_08.mp3;...i przetrwać.;THORUS;nobody
+GRD_200_THORUS_AUFNAHME_INFO_09_09.mp3;Pozostałych rzeczy dowiesz się w swoim czasie. Bądź gotów do pomocy każdemu, kto jej potrzebuje, nieważne jak trudne i niebezpieczne to zadanie.;THORUS;nobody
+GRD_200_THORUS_AUFNAHME_INFO_09_10.mp3;Idź do Stone'a i poproś go o zbroję i miecz.;THORUS;nobody
+GRD_200_THORUS_AUFNAHME_INFO_09_11.mp3;Znajdziesz go w kuźni, w Wewnętrznym Pierścieniu.;THORUS;nobody
+GRD_200_THORUS_NOCHWAS_INFO_09_01.mp3;A, i jeszcze coś...;THORUS;nobody
+GRD_200_THORUS_NOCHWAS_INFO_09_02.mp3;Witamy w Straży...;THORUS;nobody
+GRD_200_THORUS_WANNABEMAGE_INFO_09_02.mp3;W takim razie powinieneś porozmawiać z Corristo. To on uczył Miltena. Chyba nie powinno być żadnych przeciwwskazań.;THORUS;nobody
+GRD_200_THORUS_TEACH_09_01.mp3;Mogę ci pomóc w rozwinięciu twoich umiejętności i siły.;THORUS;nobody
+GRD_200_THORUS_ZWEIHAND1_INFO_09_02.mp3;Dobrze, najpierw zajmiemy się podstawami.;THORUS;nobody
+GRD_200_THORUS_ZWEIHAND1_INFO_09_03.mp3;Wyciągnij miecz przed siebie. Aby zaatakować wroga tak ciężką bronią, musisz mocniej się zamachnąć.;THORUS;nobody
+GRD_200_THORUS_ZWEIHAND1_INFO_09_04.mp3;Unieś ramię i zdecydowanie opuść miecz. To powinno wystarczyć, żeby powalić przeciwnika na ziemię.;THORUS;nobody
+GRD_200_THORUS_ZWEIHAND1_INFO_09_05.mp3;Wykorzystaj bezwładność broni, by unieść ją ponownie do góry.;THORUS;nobody
+GRD_200_THORUS_ZWEIHAND1_INFO_09_06.mp3;Dwuręczne miecze świetnie sprawdzają się przy zadawaniu ciosów z boku. W ten sposób możesz trzymać przeciwnika na dystans.;THORUS;nobody
+GRD_200_THORUS_ZWEIHAND1_INFO_09_07.mp3;To ci powinno wystarczyć na początek. Teraz trochę poćwicz.;THORUS;nobody
+GRD_200_THORUS_ZWEIHAND2_INFO_09_02.mp3;Musisz się nauczyć płynnie przenosić środek ciężkości. Trzymaj miecz pionowo. Obie dłonie mocno zaciśnij na jego rękojeści i przesuń go nieco w bok.;THORUS;nobody
+GRD_200_THORUS_ZWEIHAND2_INFO_09_03.mp3;Teraz uderz szybko od góry, i pozwól klindze powędrować nad twoje ramię. Teraz możesz wyprowadzić szybkie cięcie na prawo.;THORUS;nobody
+GRD_200_THORUS_ZWEIHAND2_INFO_09_04.mp3;Twój przeciwnik nie będzie miał okazji podejść bliżej.;THORUS;nobody
+GRD_200_THORUS_ZWEIHAND2_INFO_09_05.mp3;Albo spróbuj wyprowadzić z lewej strony cios do przodu, aby odrzucić od siebie rywala. ;THORUS;nobody
+GRD_200_THORUS_ZWEIHAND2_INFO_09_06.mp3;Teraz obrót, żeby kolejny cios nabrał odpowiedniej mocy. Przy odrobinie szczęścia wróg nie przeżyje tego uderzenia.;THORUS;nobody
+GRD_200_THORUS_ZWEIHAND2_INFO_09_07.mp3;A jeśli i to nie wystarczy, wykorzystaj resztę siły zamachowej, by ponownie unieść miecz do góry.;THORUS;nobody
+GRD_200_THORUS_ZWEIHAND2_INFO_09_08.mp3;Po skończonym ataku wykonaj zasłonę i wypatruj luki w obronie przeciwnika.;THORUS;nobody
+GRD_200_THORUS_ZWEIHAND2_INFO_09_09.mp3;Kluczem do sukcesu jest ciągła zmiana pozycji i umiejętne wykorzystanie bezwładności broni.;THORUS;nobody
+INFO_XARDAS_DISTURB_14_01.mp3;KTO ŚMIE PRZESZKADZAĆ MI W MOICH STUDIACH?;XARDAS;nobody
+INFO_XARDAS_DISTURB_14_03.mp3;Nie interesuje mnie twoje imię. To nieistotne.;XARDAS;nobody
+INFO_XARDAS_DISTURB_14_04.mp3;Liczy się tylko to, że jesteś pierwszą osobą od wielu lat, której udało się rozwiązać zagadkę Golemów.;XARDAS;nobody
+INFO_XARDAS_OTHERS_14_02.mp3;Bardzo rzadko. Zwykle szybko zaczynali mnie irytować i nasyłałem na nich którąś z moich magicznych istot.;XARDAS;nobody
+INFO_XARDAS_SATURAS_14_03.mp3;Detonacja wielkiej góry nie jest żadnym rozwiązaniem!;XARDAS;nobody
+INFO_XARDAS_SATURAS_14_05.mp3;NIE!;XARDAS;nobody
+INFO_XARDAS_KDW_14_03.mp3;Nie powiem, żebym był szczególnie zaskoczony. Tym durnym barbarzyńcom z zamku - z Gomezem na czele - nigdy nie można było ufać.;XARDAS;nobody
+INFO_XARDAS_KDW_14_04.mp3;Pomagając Gomezowi w objęciu władzy, Corristo i inni sami kopali sobie grób.;XARDAS;nobody
+INFO_XARDAS_SLEEPER_14_04.mp3;Stoimy przed poważniejszym zagrożeniem niż ktokolwiek wewnątrz Bariery jest w stanie sobie wyobrazić...;XARDAS;nobody
+INFO_XARDAS_DANGER_14_02.mp3;...Zapomnij o tym całym kopcu! Jego potęga nie wystarczy, by przełamać Barierę.;XARDAS;nobody
+INFO_XARDAS_DANGER_14_03.mp3;Gdyby Corristo i Saturas nie tracili cennego czasu na te swoje dziecinne spory, wiedzieliby teraz co należy zrobić.;XARDAS;nobody
+INFO_XARDAS_DANGER_14_05.mp3;Żaden z dwunastu magów nie zadał sobie trudu, by zbadać z jakich przyczyn Bariera wymknęła się spod kontroli, ani dlaczego przybrała tak ogromne rozmiary.;XARDAS;nobody
+INFO_XARDAS_BARRIER_14_02.mp3;Cóż, jedno jest pewne: odpowiedź spoczywa ukryta głęboko pod miastem Orków.;XARDAS;nobody
+INFO_XARDAS_BARRIER_14_04.mp3;Orkowie to nie zwierzęta, choć wielu ludzi tak właśnie myśli. Ich kultura dorównuje wiekiem naszej.;XARDAS;nobody
+INFO_XARDAS_BARRIER_14_05.mp3;Wiele stuleci temu, pięciu orkowych szamanów przywołało do tego świata potężnego demona, który miał im pomóc zdominować pozostałe klany.;XARDAS;nobody
+INFO_XARDAS_BARRIER_14_07.mp3;Orkowie nadali mu to imię dużo później. Ale nie powiem ci dlaczego wybrali tę nazwę, ani dlaczego tak bardzo się go teraz boją!;XARDAS;nobody
+INFO_XARDAS_EVENT_14_02.mp3;Myślę, że możesz być... NIE, aby mnie przekonać, musisz wykonać jeszcze jedno zadanie!;XARDAS;nobody
+INFO_XARDAS_EVENT_14_04.mp3;Słuchaj uważnie: Orkowie wygnali z miasta jednego ze swoich szamanów.;XARDAS;nobody
+INFO_XARDAS_EVENTWHY_14_02.mp3;Umierający Ork, którego kazałem przesłuchać moim demonom, nie był w stanie odpowiedzieć mi na to pytanie.;XARDAS;nobody
+INFO_XARDAS_EVENTHOW_14_02.mp3;On opowie ci resztę historii związanej ze Śniącym.;XARDAS;nobody
+INFO_XARDAS_EVENTHOW_14_04.mp3;Chcesz żebym ci pomógł, czy nie?;XARDAS;nobody
+INFO_XARDAS_EVENTHOW_14_06.mp3;Więc nigdy więcej nie kwestionuj tego, co mówię!;XARDAS;nobody
+INFO_XARDAS_EVENTHOW_14_07.mp3;Znajdź tego szamana. Nie pała miłością do swych braci z miasta Orków, więc może zgodzi się ciebie wysłuchać zanim zamieni cię w żywą pochodnię!;XARDAS;nobody
+INFO_XARDAS_EVENTWHERE_14_02.mp3;Idź do starej cytadeli na wschodzie. Na pewno trafisz - znajduje się na szczycie wysokiej góry. Widać ją już z daleka.;XARDAS;nobody
+INFO_XARDAS_EVENTWHERE_14_04.mp3;Mówią na nią stara cytadela, choć tak naprawdę to tylko sterta kamieni. Od wielu dziesięcioleci nikt tam nie zagląda.;XARDAS;nobody
+INFO_XARDAS_ACCEPT_14_02.mp3;Mój sługa dał ci już magiczną runę uaktywniającą pentagram piętro niżej.;XARDAS;nobody
+INFO_XARDAS_ACCEPT_14_03.mp3;W ten sposób będziesz mógł wrócić do mnie natychmiast po wykonaniu zadania.;XARDAS;nobody
+INFO_XARDAS_RETURN_14_02.mp3;Świetnie! Czego się dowiedziałeś?;XARDAS;nobody
+INFO_XARDAS_RETURN_14_04.mp3;Zgadza się!;XARDAS;nobody
+INFO_XARDAS_RETURN_14_06.mp3;Doskonale, doskonale!;XARDAS;nobody
+INFO_XARDAS_RETURN_14_08.mp3;Znalazłeś sposób na dostanie się do świątyni?;XARDAS;nobody
+INFO_XARDAS_RETURN_14_10.mp3;Żadnych szczegółów! Udaj się do podziemnej świątyni. Tam znajdziesz jedyny sposób na zniszczenie Bariery!;XARDAS;nobody
+INFO_XARDAS_RETURN_14_12.mp3;Poprosiłeś mnie o pomoc w zniszczeniu Bariery, tak czy nie?!;XARDAS;nobody
+INFO_XARDAS_RETURN_14_14.mp3;WIĘC IDŹ! Zmarnowano już dość czasu! Idź do podziemnej świątyni! Tam znajdziesz odpowiedź!;XARDAS;nobody
+INFO_XARDAS_FOUNDTEMPLE_14_02.mp3;ZNALAZŁEŚ... To niesamowite!;XARDAS;nobody
+INFO_XARDAS_FOUNDTEMPLE_14_03.mp3;Stałeś się niezwykle potężny! Potężniejszy niż ktokolwiek wewnątrz Bariery.;XARDAS;nobody
+INFO_XARDAS_FOUNDTEMPLE_14_04.mp3;Może rzeczywiście jesteś człowiekiem, o którym wspomina proroctwo Orków!;XARDAS;nobody
+INFO_XARDAS_PROPHECY_14_02.mp3;Prastare manuskrypty Orków, spisane tuż po zamknięciu świątyni, wspominają o "Świętym Nieprzyjacielu".;XARDAS;nobody
+INFO_XARDAS_PROPHECY_14_04.mp3;Kogoś, kto raz na zawsze wypędzi Śniącego z naszego świata!;XARDAS;nobody
+INFO_XARDAS_PROPHECY_14_06.mp3;Może tak... Może nie!;XARDAS;nobody
+INFO_XARDAS_LOADSWORD_14_02.mp3;Pokaż mi go.;XARDAS;nobody
+INFO_XARDAS_LOADSWORD_14_03.mp3;Hmm... To ciekawe. Wyryto na nim słowo "URIZIEL".;XARDAS;nobody
+INFO_XARDAS_LOADSWORD_14_04.mp3;Słyszałem o tym mieczu. To oręż z dawnych lat, kiedy rasa ludzka była jeszcze bardzo młoda.;XARDAS;nobody
+INFO_XARDAS_LOADSWORD_14_05.mp3;Nie wiem z jakiego materiału go wykuto, ani nawet KTO go wykuł.;XARDAS;nobody
+INFO_XARDAS_LOADSWORD_14_06.mp3;Według legendy, miecz ma posiadać niezwykłe moce, ale nie wyczuwam wokół niego magicznej aury!;XARDAS;nobody
+INFO_XARDAS_LOADSWORD01_14_02.mp3;Napisano, że posiadacz tej broni był w stanie przebić najgrubszy pancerz i przezwyciężyć najsilniejsze zaklęcia.;XARDAS;nobody
+INFO_XARDAS_LOADSWORD01_14_04.mp3;Ponoć Orkowie odebrali go potężnemu rycerzowi. Nie wiedzieli jak go wykorzystać, więc postanowili go ukryć!;XARDAS;nobody
+INFO_XARDAS_LOADSWORD02_14_02.mp3;Nie obejdzie się bez odpowiednio silnego źródła magii.;XARDAS;nobody
+INFO_XARDAS_LOADSWORD02_14_04.mp3;Coś w tym rodzaju...;XARDAS;nobody
+INFO_XARDAS_LOADSWORD02_14_05.mp3;Oprócz tego potrzebna będzie specjalna magiczna formuła, która przekaże całą wyzwoloną energię na miecz.;XARDAS;nobody
+INFO_XARDAS_LOADSWORD02_14_06.mp3;Daj mi trochę czasu na przygotowanie formuły!;XARDAS;nobody
+INFO_XARDAS_BETTERARMOR_14_05.mp3;Powinieneś zajrzeć do mojej starej wieży?;XARDAS;nobody
+INFO_XARDAS_BETTERARMOR_14_07.mp3;Podczas trzęsienia ziemi pochłonęło ją jedno ze wschodnich jezior. Jej szczyt powinien nadal wystawać nad poziom wody.;XARDAS;nobody
+INFO_XARDAS_BETTERARMOR_14_08.mp3;Wewnątrz zostało kilka cennych artefaktów. Nigdy nie zadałem sobie trudu, by je odzyskać.;XARDAS;nobody
+INFO_XARDAS_BETTERARMOR_14_10.mp3;Nie zaglądałem tam od trzęsienia ziemi, więc sam będziesz musiał poszukać drogi do środka.;XARDAS;nobody
+INFO_XARDAS_BETTERARMOR_14_11.mp3;Weź ten klucz. Otwiera skrzynię, w której przechowywałem szczególnie cenne artefakty.;XARDAS;nobody
+INFO_XARDAS_OREARMOR_14_01.mp3;Ach, jak widzę nosisz zbroję runiczną, wykonaną z magicznej rudy!;XARDAS;nobody
+INFO_XARDAS_OREARMOR_14_02.mp3;Jak widzę, znalazłeś zbroję runiczną, wykonaną z magicznej rudy!;XARDAS;nobody
+INFO_XARDAS_OREARMOR_14_04.mp3;Należała kiedyś do tego samego generała, który dzierżył URIZIEL w bitwie z Orkami.;XARDAS;nobody
+INFO_XARDAS_FORMULA_14_02.mp3;Tak, wszystko gotowe. Ale sam nie dasz rady jej użyć.;XARDAS;nobody
+INFO_XARDAS_FORMULA_14_04.mp3;Będziesz musiał dotknąć mieczem źródła mocy magicznej. Dokładnie w tej samej chwili jakiś mag musi wypowiedzieć formułę.;XARDAS;nobody
+INFO_XARDAS_FORMULA_14_06.mp3;Weź formułę i przywróć URIZIEL do jego dawnej świetności. Będzie ci wkrótce potrzebny!;XARDAS;nobody
+INFO_XARDAS_ALTRUNE_14_02.mp3;Jest na to sposób...;XARDAS;nobody
+INFO_XARDAS_ALTRUNE_14_03.mp3;Ale najpierw naładuj miecz magiczną energią. Wróć jak najszybciej!;XARDAS;nobody
+INFO_XARDAS_SWORDLOADED_14_02.mp3;Niesamowite! Miecz odzyskał swą dawną moc! Dysponujesz teraz nie lada orężem!;XARDAS;nobody
+INFO_XARDAS_MAKERUNE_14_02.mp3;Przyjrzyj się mu uważnie. Zauważyłeś zapewne ten duży, błękitny klejnot zatopiony w ostrzu.;XARDAS;nobody
+INFO_XARDAS_MAKERUNE_14_03.mp3;Cała energia magiczna miecza skumulowana jest właśnie tutaj.;XARDAS;nobody
+INFO_XARDAS_MAKERUNE_14_04.mp3;Jeśli usunę klejnot, będę mógł stworzyć magiczną runę posiadającą wszystkie te cechy, które czynią URIZIEL tak szczególnym orężem.;XARDAS;nobody
+INFO_XARDAS_MAKERUNE_14_06.mp3;W bitwie ta runa będzie równie niebezpieczna co sam miecz!;XARDAS;nobody
+INFO_XARDAS_MAKERUNE_14_07.mp3;Ale nie zapominaj, że jedynie mag Szóstego Kręgu może zapanować nad tak potężną magią!;XARDAS;nobody
+INFO_XARDAS_MAKERUNEDOIT_14_02.mp3;Ale nie opanowałeś jeszcze magii Szóstego Kręgu!;XARDAS;nobody
+INFO_XARDAS_MAKERUNEDOIT_14_03.mp3;Od tej decyzji nie ma odwrotu. Jesteś pewien, że chcesz abym usunął klejnot?;XARDAS;nobody
+INFO_XARDAS_MAKERUNEDOIT_14_05.mp3;Jeśli tego właśnie chcesz... Proszę, oto miecz i runa!;XARDAS;nobody
+INFO_XARDAS_MAKERUNEDOIT_14_07.mp3;Jak sobie życzysz. Ostrze zachowa swą magiczną moc!;XARDAS;nobody
+INFO_XARDAS_LOADSWORD09_14_02.mp3;Wprowadzę cię w Szósty Krąg Magii.;XARDAS;nobody
+INFO_XARDAS_LOADSWORD09_14_03.mp3;Pamiętaj, że to przywilej zarezerwowany wyłącznie dla najbieglejszych magów. Mogą do niego przystąpić ci, których całe życie jest znakiem.;XARDAS;nobody
+INFO_XARDAS_LOADSWORD09_14_04.mp3;Twoim znakiem jest zjednoczenie elementów.;XARDAS;nobody
+INFO_XARDAS_LOADSWORD09_14_05.mp3;Szósty Krąg pozwala ci wykorzystywać magię dowolnej runy.;XARDAS;nobody
+INFO_XARDAS_LOADSWORD09_14_06.mp3;I nie zapomnij: twoim zadaniem jest służyć potędze magii, a nie ją wykorzystywać.;XARDAS;nobody
+INFO_XARDAS_LOADSWORD09_14_07.mp3;Jeszcze nie. Jesteś zdolny, ale brak ci niezbędnego doświadczenia. Niech Saturas popracuje nad tobą przez jakiś czas. Wtedy zobaczymy.;XARDAS;nobody
+INFO_XARDAS_OT_14_01.mp3;Nie mamy wiele czasu, więc słuchaj uważnie.;XARDAS;nobody
+INFO_XARDAS_OT_14_03.mp3;Śniący jest już blisko. Wykorzystałem całą swoją moc, żeby się tu dostać.;XARDAS;nobody
+INFO_XARDAS_OT_14_04.mp3;Przetłumaczyłem starożytne przepowiednie Orków i odkryłem o co chodzi z pięcioma sercami.;XARDAS;nobody
+INFO_XARDAS_OT_14_05.mp3;Pięć serc należących do kapłanów, których pokonałeś, złożono w pięciu kapliczkach.;XARDAS;nobody
+INFO_XARDAS_OT_14_06.mp3;Kapliczki można otworzyć, ale tylko starożytne sztylety kapłanów są w stanie je zniszczyć.;XARDAS;nobody
+INFO_XARDAS_OT_14_07.mp3;Musisz przebić serca kapłanów pięcioma sztyletami. Tylko w ten sposób uda ci się wygnać Śniącego z tego świata.;XARDAS;nobody
+INFO_XARDAS_OT_14_09.mp3;Spiesz się. Przebudzenie demona odbędzie się już wkrótce. Szalony Cor Kalom i jego poplecznicy są już tutaj.;XARDAS;nobody
+INFO_XARDAS_OT_14_10.mp3;Zebrali się w krypcie Śniącego.;XARDAS;nobody
+INFO_XARDAS_OT_14_12.mp3;Śniący staje się potężniejszy z każdą minutą, nie mogę...;XARDAS;nobody
+INFO_XARDAS_OT_14_14.mp3;Ja... muszę...;XARDAS;nobody
+ORG_801_LARES_YOUHERE_11_00.mp3;Jak się tu dostałeś? Co się dzieje z Roscoe?;LARES;nobody
+ORG_801_LARES_YOUHERE_11_02.mp3;Czego chcesz?;LARES;nobody
+ORG_801_LARES_WANNAJOIN_11_01.mp3;Tak? A co takiego możesz nam zaoferować?;LARES;nobody
+ORG_801_LARES_BRINGLIST_11_01.mp3;O niech mnie... Albo jesteś cholernie odważny, albo cholernie głupi...;LARES;nobody
+ORG_801_LARES_BRINGLIST_11_02.mp3;Pokaż!;LARES;nobody
+ORG_801_LARES_BRINGLIST_11_04.mp3;Rzeczywiście! Wiesz, co z nią teraz zrobimy? Dopiszemy parę rzeczy, a ty zaniesiesz ją do Starego Obozu!;LARES;nobody
+ORG_801_LARES_BRINGLIST_11_05.mp3;A jak już dostarczą wszystko do kopalni, obrabujemy ich ze wszystkiego! To nie zajmie długo... Ha! Masz tu listę. Wiesz, co masz robić.;LARES;nobody
+ORG_801_LARES_BRINGLISTBACK_11_01.mp3;Świetnie! Rozmieściłem paru ludzi na drodze do Starej Kopalni. Strażnicy Thorusa pewnie już gryzą ziemię.;LARES;nobody
+ORG_801_LARES_BRINGLISTANTEIL_11_01.mp3;Pogadaj z Gornem. On ci coś da.;LARES;nobody
+ORG_801_LARES_BRINGLISTANTEIL_11_03.mp3;Zgadza się.;LARES;nobody
+ORG_801_LARES_BRINGLISTANTEIL_11_05.mp3;Czasem lepiej jest nie wiedzieć za dużo. Idź do niego po swoją nagrodę.;LARES;nobody
+ORG_801_LARES_MORDRAGSENTME_11_01.mp3;Cenna błyskotka. To taki zwyczaj - część łupu oddaje się szefowi bandy.;LARES;nobody
+ORG_801_LARES_MORDRAGSENTME_11_02.mp3;Ale skoro powierzył ci ten pierścień, musi mieć o tobie wysokie mniemanie.;LARES;nobody
+ORG_801_LARES_MORDRAGSENTME_11_03.mp3;Chcę, żebyś poszedł do niego i przekazał mu wiadomość ode mnie.;LARES;nobody
+ORG_801_LARES_MORDRAGSENTME_11_04.mp3;Powiedz mu, że potrzebuję kogoś w obozie na bagnie. Bractwo planuje coś dużego, a ja chcę wiedzieć, co się tam będzie działo.;LARES;nobody
+ORG_801_LARES_VORBEIGEMOGELT_11_01.mp3;Fakt. Ale to jeszcze za mało.;LARES;nobody
+ORG_801_LARES_GETKRAUT_11_01.mp3;Pewien człowiek z Sekty, niejaki Baal Isidro, ma przy sobie ziele warte co najmniej 400 bryłek rudy. Chcę, żebyś mi je przyniósł. Jak tego dokonasz - to już twoja sprawa.;LARES;nobody
+ORG_801_LARES_GETKRAUT_11_03.mp3;Widzę, że sprytny z ciebie chłopak!;LARES;nobody
+ORG_801_LARES_GETKRAUT_11_04.mp3;Skoro masz już ziele, chcę, żebyś je sprzedał. Przynieś mi 400 bryłek rudy.;LARES;nobody
+ORG_801_LARES_GETKRAUT_11_05.mp3;Wtedy wrócimy do twojego członkostwa w mojej bandzie.;LARES;nobody
+ORG_801_LARES_400ORE_11_01.mp3;Dobrze! Świetnie! To mi chyba wystarczy.;LARES;nobody
+ORG_801_LARES_400ORE_NOORE_11_00.mp3;Lepiej przelicz jeszcze raz! Mam nadzieję, że nie wydałeś ich na gorzałę!;LARES;nobody
+ORG_801_LARES_REICHT_AUFNAHME_11_00.mp3;Myślę, że tak!;LARES;nobody
+ORG_801_LARES_REICHT_AUFNAHME_11_01.mp3;I mam dla ciebie mały prezent! Lepszy pancerz. Może nie jest to szczyt marzeń, ale zasłużyłeś na niego.;LARES;nobody
+ORG_801_LARES_REICHT_11_02.mp3;Mordrag opowiedział się za tobą.;LARES;nobody
+ORG_801_LARES_REICHT_11_03.mp3;Stałeś się bardzo popularny, odkąd przyniosłeś nam tę listę.;LARES;nobody
+ORG_801_LARES_REICHT_11_04.mp3;Ale nie jesteś gotowy. Popracuj nad sobą jeszcze trochę.;LARES;nobody
+ORG_801_LARES_GOTOKALOM_11_01.mp3;Należysz teraz do naszej bandy. Możesz robić, co ci się żywnie podoba.;LARES;nobody
+ORG_801_LARES_GOTOKALOM_11_02.mp3;Jeśli chcesz robić coś pożytecznego, pogadaj z Mordragiem i pomóż mu w sprawie Sekty.;LARES;nobody
+ORG_801_LARES_GOTOKALOM_11_03.mp3;Zginął Mordrag, jeden z naszych ludzi w Starym Obozie. Przed śmiercią zdążył przysłać nam wiadomość. Wygląda na to, że w obozie Sekty dzieje się coś ważnego.;LARES;nobody
+ORG_801_LARES_GOTOKALOM_11_04.mp3;Chcę, żebyś udał się do obozu na bagnie i trochę tam powęszył.;LARES;nobody
+ORG_801_LARES_GOTOKALOM_11_05.mp3;Wrócił Mordrag, jeden z naszych ludzi w Starym Obozie.;LARES;nobody
+ORG_801_LARES_GOTOKALOM_11_06.mp3;Chcę, żebyś z nim porozmawiał. Powiedz mu, że potrzebuję wtyczki w obozie Sekty. Bractwo planuje coś dużego, a ja chcę wiedzieć, co się tam dzieje.;LARES;nobody
+ORG_801_LARES_GOTOKALOM_11_07.mp3;Masz mu pomóc.;LARES;nobody
+ORG_801_LARES_WHERELEARN_INFO_11_02.mp3;Na przykład u mnie. Mogę ci pokazać, jak zwiększyć twoją siłę i zręczność.;LARES;nobody
+INFO_GORN_EXIT_09_01.mp3;Do boju!;GORN;nobody
+INFO_GORN_EXIT_09_02.mp3;Do zobaczenia.;GORN;nobody
+DIA_GORN_FIRST_09_00.mp3;Hej, Nowa twarz.;GORN;nobody
+DIA_GORN_FIRST_09_02.mp3;Nazywam się Gorn. Jestem najemnikiem w służbie magów.;GORN;nobody
+DIA_GORN_LEBEN_09_01.mp3;Lee zawarł z Magami umowę. Zatrudnia najlepszych wojowników z całej kolonii - czyli nas.;GORN;nobody
+DIA_GORN_LEBEN_09_02.mp3;Pilnujemy, żeby nikt nie przeszkadzał Kretom w pracy i dbamy o bezpieczeństwo Magów.;GORN;nobody
+DIA_GORN_LEBEN_09_03.mp3;Magowie natomiast przygotowują plan, który pozwoli się nam stąd wyrwać. Jako wynagrodzenie otrzymujemy trochę rudy.;GORN;nobody
+DIA_GORN_HUT_09_01.mp3;Chyba będziesz musiał. Jeśli naprawdę chcesz to zrobić, zacznij od Krzykacza.;GORN;nobody
+DIA_GORN_HUT_09_02.mp3;Złapał dla siebie chatę przy samym wejściu do jaskini. Była pusta, ale tak naprawdę należała do nas.;GORN;nobody
+DIA_GORN_HUT_09_04.mp3;No nas, Najemników. Najemnicy i Szkodniki starają się nie włazić sobie w drogę. Ludzie Laresa nie mają wstępu do tej części obozu.;GORN;nobody
+DIA_GORN_HUT_09_05.mp3;W sumie to drobiazg, ale sukinsyn nie zapytał nawet o pozwolenie. Tym Szkodnikom nie można pozwolić na zbyt wiele, bo zrobią się nie do wytrzymania.;GORN;nobody
+DIA_GORN_HUTFREE_09_01.mp3;Świetnie! Przed chwilą Torlof powiedział, że zamierza pokazać temu chłoptasiowi, gdzie jest jego miejsce.;GORN;nobody
+DIA_GORN_BECOMESLD_09_01.mp3;Musisz trochę popracować nad swoimi umiejętnościami bojowymi, zanim Lee zgodzi się cię przyjąć. Nieważne w jakiej broni się specjalizujesz, byleś był w tym dobry.;GORN;nobody
+DIA_GORN_BECOMESLD_09_02.mp3;Oprócz tego powinieneś mieć chociaż ogólne pojęcie o życiu w kolonii, układach między obozami, i takie tam...;GORN;nobody
+DIA_GORN_BECOMESLD_09_03.mp3;Jeśli nie interesują cię inne obozy, spróbuj na początek dołączyć do Szkodników. Na zostanie Najemnikiem jeszcze przyjdzie czas.;GORN;nobody
+DIA_GORN_TRADE_09_01.mp3;Całe mnóstwo. Chcesz kupić?;GORN;nobody
+DIA_GORN_DUHEHLER_09_01.mp3;A kto twierdzi, że wziąłem?;GORN;nobody
+DIA_GORN_DUHEHLER_09_03.mp3;Naprawdę myślisz, że taką ilość towaru można zebrać po JEDNYM głupim napadzie?;GORN;nobody
+DIA_GORN_DUHEHLER_09_05.mp3;Nawet gdyby tak było, nie mógł bym ci o tym powiedzieć. Lee dałby mi zdrowo popalić.;GORN;nobody
+INFO_GORN_NCWAIT_09_01.mp3;Ach, to ty! Mój przyjaciel z obozu na bagnie, Lester, doniósł mi o twoich dokonaniach.;GORN;nobody
+INFO_GORN_NCWAIT_09_02.mp3;Jak na kogoś, kto jest tu od niedawna, zaszedłeś całkiem daleko.;GORN;nobody
+INFO_GORN_MAGES_09_02.mp3;W takim razie powinieneś zgłosić się do Saturasa. To najwyższy z Magów Wody. Jak go znam, siedzi teraz nad jakąś magiczną księgą albo czymś w tym stylu.;GORN;nobody
+INFO_GORN_MAGES_09_03.mp3;Ale niezależnie od tego jak ważne są wieści, które przynosisz, strażnicy z górnego poziomu nie pozwolą ci się z nim zobaczyć.;GORN;nobody
+INFO_GORN_MAGES_09_05.mp3;Ja nie, ale Cronos, strażnik rudy może udzielić ci pozwolenia na spotkanie z Saturasem.;GORN;nobody
+INFO_GORN_CRONOS_09_01A.mp3;Idąc stąd trafisz na wielką jaskinię mieszkalną, niedaleko tamy.;GORN;nobody
+INFO_GORN_CRONOS_09_02.mp3;Cronos przebywa zwykle obok kraty broniącej dostępu do kopca rudy.;GORN;nobody
+INFO_GORN_CRONOS_09_03.mp3;Ale to nieco arogancki człowiek. Będziesz musiał go jakoś przekonać, że twoja wiadomość jest naprawdę ważna.;GORN;nobody
+INFO_GORN_RUINWAIT_09_01.mp3;Cześć, żółtodziobie. Jak widzisz kolonia to bardzo małe miejsce.;GORN;nobody
+INFO_GORN_RUINWAIT_09_02.mp3;Cały czas wpada się na tych samych ludzi.;GORN;nobody
+INFO_GORN_RUINWHAT_09_02.mp3;Och, podążam śladem pewnej prastarej legendy.;GORN;nobody
+INFO_GORN_RUINWHAT_09_04.mp3;Tak, Milten - mój kumpel ze Starego Obozu, powiedział mi, że kiedyś ten teren zamieszkiwali mnisi.;GORN;nobody
+INFO_GORN_RUINWHAT_09_05.mp3;Oczywiście to było na długo przed powstaniem Bariery.;GORN;nobody
+INFO_GORN_RUINWHAT_09_06.mp3;Ponoć czczono tutaj bóstwo, które pozwalało mnichom przybierać postać zwierząt.;GORN;nobody
+INFO_GORN_RUINWHAT_09_07.mp3;Założę się, że są tu jeszcze jakieś skarby pozostałe po dawnych czasach.;GORN;nobody
+INFO_GORN_RUINWHAT_09_08.mp3;A co ciebie tu sprowadza?;GORN;nobody
+INFO_GORN_RUINFOCUS_09_03.mp3;Przedmiot, którego szukasz może znajdować się na terenie starego klasztoru, za tym kanionem.;GORN;nobody
+INFO_GORN_RUINJOIN_09_02.mp3;Dobry pomysł. Cała okolica aż roi się od zębaczy.;GORN;nobody
+INFO_GORN_RUINJOIN_09_03.mp3;W pojedynkę nie powinny stwarzać kłopotu wytrawnemu myśliwemu, ale te bestie zwykle polują całymi stadami.;GORN;nobody
+INFO_GORN_RUINJOIN_09_04.mp3;A grupa zębaczy potrafi rozerwać na strzępy nawet bardzo doświadczonego wojownika.;GORN;nobody
+INFO_GORN_RUINJOIN_09_06.mp3;Dobra, ale zanim przejdziemy po tym pniu, chciałbym przyjrzeć się uważniej temu kanionowi. Lubię wiedzieć, co mam za plecami.;GORN;nobody
+INFO_GORN_RUINJOIN_09_07.mp3;Chodź za mną. Odkryłem ścieżkę, która nas tam zaprowadzi.;GORN;nobody
+INFO_GORN_RUINABYSS_09_01.mp3;To się nazywa szczęście! Najwyraźniej ta jaskinia była wykorzystywana jako składowisko.;GORN;nobody
+INFO_GORN_RUINABYSS_09_02.mp3;Możesz teraz prowadzić do klasztoru. Chciałem mieć pewność, że nie spotkają nas jakieś paskudne niespodzianki w drodze powrotnej.;GORN;nobody
+INFO_GORN_RUINLEAVE_09_01.mp3;Widzę, że ten stary klasztor przestał cię już interesować.;GORN;nobody
+INFO_GORN_RUINLEAVE_09_02.mp3;Zatem dalej pójdę sam.;GORN;nobody
+INFO_GORN_RUINLEAVE_09_03.mp3;Gdybyś zmienił zdanie, możesz mnie dogonić.;GORN;nobody
+INFO_GORN_RUINWALL_09_01.mp3;Cholerna brama. Ponoć nikomu jeszcze nie udało się jej otworzyć.;GORN;nobody
+INFO_GORN_RUINWALL_09_02.mp3;Te bestyjki pod drugiej stronie są pewnie jedynymi istotami, którym udało się dostać do środka.;GORN;nobody
+INFO_GORN_RUINWALLWHAT_09_02.mp3;Musisz znaleźć jakiś sposób na przedostanie się na drugą stronę bramy.;GORN;nobody
+INFO_GORN_RUINLEDGE_09_01.mp3;Na górze jest chyba jakaś platforma. Ale wątpię, żeby udało się nam wspiąć tak wysoko.;GORN;nobody
+INFO_GORN_RUINLEDGE_09_02.mp3;Musimy znaleźć inną drogę.;GORN;nobody
+INFO_GORN_RUINPLATFORM_09_01.mp3;To mi wygląda na jakiś piedestał.;GORN;nobody
+INFO_GORN_RUINPLATFORM_09_02.mp3;Może leżał tu kiedyś artefakt, którego szukasz.;GORN;nobody
+INFO_GORN_RUINGATE_09_01.mp3;Widzę, że udało ci się otworzyć tę bramę. To zaklęcie, którego użyłeś było całkiem sprytne.;GORN;nobody
+INFO_GORN_RUINLEAVEINSIDE_09_01.mp3;Widzę, że ten stary klasztor przestał cię już interesować.;GORN;nobody
+INFO_GORN_RUINLEAVEINSIDE_09_02.mp3;Dalej pójdę sam.;GORN;nobody
+INFO_GORN_RUINLEAVEINSIDE_09_03.mp3;Gdybyś zmienił zdanie, możesz mnie dogonić.;GORN;nobody
+INFO_GORN_RUINSUCCESS_09_01.mp3;A więc znalazłeś swój magiczny artefakt!;GORN;nobody
+INFO_GORN_RUINSUCCESS_09_03.mp3;Pójdę kawałek z tobą.;GORN;nobody
+INFO_GORN_RUINTROLL_09_01.mp3;O JASNA CHOLERA! A co to za monstrum?;GORN;nobody
+INFO_GORN_RUINTROLL_09_03.mp3;To mi wygląda na jednego z tych niezniszczalnych Trolli, ale jest trochę mniejsze.;GORN;nobody
+INFO_GORN_RUINTROLL_09_04.mp3;Trudno, jeśli chcemy się stąd wydostać, musimy go jakoś minąć.;GORN;nobody
+INFO_GORN_RUINVICTORY_09_01.mp3;Nie było łatwo!;GORN;nobody
+INFO_GORN_RUINVICTORY_09_03.mp3;... Więc pewnie nie chciałbyś wpaść na jego rodziców, co?;GORN;nobody
+INFO_GORN_RUINVICTORY_09_05.mp3;Tutaj nasze drogi się rozchodzą. Chcę tu trochę zostać i rozejrzeć się po okolicy.;GORN;nobody
+INFO_GORN_RUINVICTORY_09_06.mp3;Ale na pewno jeszcze się spotkamy. Do zobaczenia, przyjacielu.;GORN;nobody
+INFO_GORN_DIEGOMILTEN_09_02.mp3;To dobra wiadomość!;GORN;nobody
+INFO_GORN_DIEGOMILTEN_09_04.mp3;Dzięki. W dzisiejszych czasach nie ma nic cenniejszego niż kilku oddanych przyjaciół.;GORN;nobody
+INFO_GORN_DIEGOMILTEN_09_05.mp3;Jesteś już prawie jednym z nas. Udowodniłeś, że można na tobie polegać!;GORN;nobody
+INFO_GORN_FREEMINE_09_02.mp3;Po powrocie ze starego klasztoru chciałem złożyć wizytę Okylowi, szefowi Wolnej Kopalni.;GORN;nobody
+INFO_GORN_FREEMINE_09_03.mp3;Ale gdy dotarłem na miejsce, zastałem tylko stygnące ciała.;GORN;nobody
+INFO_GORN_FREEMINE_09_04.mp3;Dostrzegłem kilku Strażników okopujących się przy wejściu do kopalni.;GORN;nobody
+INFO_GORN_FREEMINE_09_06.mp3;To musiała być jakaś zasadzka. W końcu kto mógłby się spodziewać ataku od strony gór?;GORN;nobody
+INFO_GORN_FREEMINE_09_07.mp3;Element zaskoczenia może zwielokrotnić zdolności bojowe oddziału.;GORN;nobody
+INFO_GORN_GUARDNC_09_02.mp3;Musimy zmienić całą naszą strategię obrony. To trochę potrwa.;GORN;nobody
+INFO_GORN_GUARDNC_09_03.mp3;Dopóki Lee nie zdoła przeorganizować swoich oddziałów, dołączę do prowizorycznej straży Corda.;GORN;nobody
+INFO_GORN_GUARDNC_09_05.mp3;Jeszcze nie, ale wkrótce na pewno to zrobimy.;GORN;nobody
+INFO_GORN_GUARDNC_09_06.mp3;Gdybyś mnie kiedyś potrzebował, zacznij tutaj i idź w stronę kopalni. Będę tam stał na straży.;GORN;nobody
+INFO_GORN_GUARDNCRUNNING_09_02.mp3;Na razie cicho. W Wolnej Kopalni nic się nie rusza.;GORN;nobody
+INFO_GORN_GUARDNCRUNNING_09_03.mp3;Lee zajmuje się jeszcze organizacją naszej obrony!;GORN;nobody
+INFO_GORN_POST_09_01.mp3;Przybywasz w samą porę! Przygotowujemy się do kontruderzenia.;GORN;nobody
+INFO_GORN_POST_09_02.mp3;Na początek spróbujemy odbić Wolną Kopalnię.;GORN;nobody
+INFO_GORN_TAKEBACK_09_02.mp3;Uderzenie od frontu nie ma szans powodzenia. Ludzie Gomeza za dobrze się okopali.;GORN;nobody
+INFO_GORN_TAKEBACK_09_03.mp3;Spróbujemy zaatakować po cichu, zabijając jednego strażnika po drugim. Może się uda...;GORN;nobody
+INFO_GORN_TAKEBACK_09_04.mp3;Lee kazał mi przekazać ci wiadomość.;GORN;nobody
+INFO_GORN_TAKEBACK_09_05.mp3;Jako jeden z naszych najlepszych Najemników zostałeś wyznaczony do udziału w tej misji.;GORN;nobody
+INFO_GORN_TAKEBACK_09_06.mp3;Jako Mag z Kręgu Wody i doświadczony wojownik, zostałeś wybrany do udziału w tej misji.;GORN;nobody
+INFO_GORN_TAKEBACK_09_07.mp3;Jako jeden z naszych najlepszych Szkodników zostałeś wybrany do udziału w tej misji.;GORN;nobody
+INFO_GORN_TAKEBACK_09_08.mp3;Choć nie jesteś jednym z nas, wielokrotnie oddałeś nam nieocenione przysługi.;GORN;nobody
+INFO_GORN_TAKEBACK_09_09.mp3;Dlatego chcemy cię prosić o udział w tej misji.;GORN;nobody
+INFO_GORN_TAKEBACK_09_10.mp3;Pójdę z tobą. Razem może się nam udać.;GORN;nobody
+INFO_GORN_SECOND_09_02.mp3;Jak tylko odbijemy kopalnię, spróbujemy odnaleźć ścieżkę, którą przyszli ludzie Gomeza!;GORN;nobody
+INFO_GORN_SECOND_09_03.mp3;Kiedy ustawimy przy niej straż, będziemy bezpieczni.;GORN;nobody
+INFO_GORN_WHYME_09_02.mp3;Wielokrotnie udowodniłeś, że jesteś silnym i przebiegłym wojownikiem!;GORN;nobody
+INFO_GORN_WHYME_09_03.mp3;Poza tym znasz Stary Obóz i jego strażników lepiej niż ktokolwiek z nas.;GORN;nobody
+INFO_GORN_WHYME_09_04.mp3;Trudno o kogoś lepszego niż ty!;GORN;nobody
+INFO_GORN_KICKBUTT_09_02.mp3;Wiedziałem, że można na ciebie liczyć.;GORN;nobody
+INFO_GORN_KICKBUTT_09_03.mp3;Weź ten klucz. Otwiera stróżówkę przy wejściu do kopalni.;GORN;nobody
+INFO_GORN_MYWAY_09_02.mp3;Nieważne DLACZEGO to robisz. Cieszę się, że jesteś z nami!;GORN;nobody
+INFO_GORN_MYWAY_09_03.mp3;Weź ten klucz. Otwiera stróżówkę przy wejściu do kopalni.;GORN;nobody
+INFO_GORN_WOLF_09_01.mp3;Ach, prawie zapomniałem!;GORN;nobody
+INFO_GORN_WOLF_09_02.mp3;Wilk chce z tobą koniecznie porozmawiać, zanim ruszymy do kopalni.;GORN;nobody
+INFO_GORN_WOLF_09_05.mp3;Jak chcesz!;GORN;nobody
+INFO_GORN_WOLF_09_07.mp3;W porządku. Zaczekam na ciebie tutaj.;GORN;nobody
+INFO_GORN_LEAVEFORPOST_09_01.mp3;Widzę, że jednak nie chcesz porozmawiać z Wilkiem!;GORN;nobody
+INFO_GORN_LEAVEFORPOST_09_02.mp3;Idziesz w złą stronę! Mamy iść prosto do kopalni!;GORN;nobody
+INFO_GORN_LEAVEFORPOST_09_03.mp3;Zaczekam na ciebie przy prowizorycznym punkcie strażniczym!;GORN;nobody
+INFO_GORN_REJOINFORFM_09_02.mp3;Pora przepędzić stamtąd ludzi Gomeza!;GORN;nobody
+INFO_GORN_REJOINFORFM_09_03.mp3;Idź przodem. Pójdę za tobą.;GORN;nobody
+INFO_GORN_RAZOR_09_01.mp3;UWAGA! BRZYTWY!;GORN;nobody
+INFO_GORN_RAZOR_09_02.mp3;Polują w stadach, jak zębacze, tylko gryzą znacznie mocniej!;GORN;nobody
+INFO_GORN_RAZOR_09_03.mp3;Powinniśmy się najpierw z nimi rozprawić. Znasz mnie - lubię wiedzieć, co mam za plecami.;GORN;nobody
+INFO_GORN_FMCENTRANCE_09_01.mp3;Zaczekaj! Widzisz te wszystkie ciała?;GORN;nobody
+INFO_GORN_FMCENTRANCE_09_02.mp3;Idź do wejścia do kopalni. Ja zaczekam tutaj i przypilnuję, żeby ktoś lub coś nie zaszło nas od tyłu.;GORN;nobody
+INFO_GORN_FMCENTRANCE_09_03.mp3;Kiedy już zejdziesz na dół, pójdę za tobą.;GORN;nobody
+INFO_GORN_FMGATE_09_01.mp3;Usłyszałem odgłosy walki i przybiegłem najszybciej jak mogłem!;GORN;nobody
+INFO_GORN_FMGATE_09_03.mp3;Dobra, otwieraj bramę. Je będę tu stał na straży!;GORN;nobody
+INFO_GORN_AFTERFM_09_01.mp3;Stary, to się dopiero nazywa trudna walka!;GORN;nobody
+INFO_GORN_AFTERFM_09_02.mp3;Nie spodziewałem się, że Strażnicy Gomeza będą stawiali tak zaciekły opór.;GORN;nobody
+INFO_GORN_AFTERFM_09_04.mp3;Zostanę tutaj i dopilnuję, żeby tak już zostało!;GORN;nobody
+INFO_GORN_FMWATCH_09_02.mp3;Na razie cicho. W Wolnej Kopalni nic się nie rusza.;GORN;nobody
+INFO_GORN_FMWATCH_09_03.mp3;Lee powinien niedługo podesłać tu posiłki.;GORN;nobody
+INFO_GORN_FMWATCH_09_04.mp3;Póki co postaram się tutaj rozgościć.;GORN;nobody
+INFO_GORN_FOUNDULUMULU_09_01.mp3;Masz przy sobie ciekawą ozdóbkę. Orkowa, prawda?;GORN;nobody
+INFO_GORN_FOUNDULUMULU_09_02.mp3;To od tego niewolnika z kopalni?;GORN;nobody
+INFO_GORN_FOUNDULUMULU_09_04.mp3;Oby tylko Orkowie uszanowali to... COŚ!;GORN;nobody
+DIA_MILTEN_EXIT_02_00.mp3;Ruszamy w drogę.;MILTEN;nobody
+DIA_MILTEN_EXIT_02_01.mp3;Do zobaczenia.;MILTEN;nobody
+DIA_MILTEN_FIRST_02_00.mp3;Nie wolno ci przekroczyć progu tego domu bez pozwolenia Mistrza Corristo.;MILTEN;nobody
+DIA_MILTEN_HELLO_02_01.mp3;Chodzi ci o Corristo? Czego od niego chcesz?;MILTEN;nobody
+DIA_MILTEN_LETTER_02_03.mp3;Pokaż to pismo.;MILTEN;nobody
+INFO_MILTEN_SHSEAL_02_05.mp3;To już nie będzie potrzebne.;MILTEN;nobody
+DIA_MILTEN_GOTOCORRISTO_02_01.mp3;Słyszeliśmy o twoich dokonaniach w Starej Kopalni. Nasi górnicy nie muszą się już obawiać ataków ze strony pełzaczy.;MILTEN;nobody
+DIA_MILTEN_GOTOCORRISTO_02_02.mp3;Wieści o tobie dotarły nawet do Corristo. Mistrz życzy sobie z tobą rozmawiać. Idź do niego natychmiast.;MILTEN;nobody
+DIA_MILTEN_LETTER_02_01.mp3;Jesteś posłańcem z zewnętrznego świata?;MILTEN;nobody
+DIA_MILTEN_LETTER_GIVE_02_03.mp3;Ależ ten list zaadresowano do Xardasa!;MILTEN;nobody
+DIA_MILTEN_LETTER_GIVE_02_05.mp3;Xardas już od dawna nie jest sługą Innosa. Opuścił nas wiele lat temu i zwrócił się w stronę czarnej magii.;MILTEN;nobody
+DIA_MILTEN_LETTER_GIVE_02_06.mp3;Mieszka w wieży, w samym środku terytorium Orków. Chyba całkowicie poświęcił się swoim badaniom.;MILTEN;nobody
+DIA_MILTEN_LETTER_GIVE_02_07.mp3;Xardas próbuje na własną rękę dowiedzieć się co poszło nie tak przy tworzeniu Bariery.;MILTEN;nobody
+DIA_MILTEN_LETTER_GIVE_02_08.mp3;Zaczekaj tu na mnie. Niedługo wrócę.;MILTEN;nobody
+DIA_MILTEN_LETTER_NO_02_01.mp3;Corristo każe Torrezowi wydać ci nagrodę, jak tylko obejrzy ten list.;MILTEN;nobody
+DIA_MILTEN_LETTER_NO_02_02.mp3;Jestem sługą Innosa - nigdy nie kłamię. A teraz daj mi ten list.;MILTEN;nobody
+DIA_MILTEN_LETTER_NO_AGAIN_02_01.mp3;Nie dasz się przekonać, co?;MILTEN;nobody
+DIA_MILTEN_LETTER_NO_AGAIN_02_03.mp3;Cóż. Jeśli tego sobie życzysz. Zaczekaj tutaj.;MILTEN;nobody
+DIA_MILTEN_COMESBACK_02_00.mp3;Corristo nie był zachwycony brakiem szacunku, jaki okazałeś sługom Innosa.;MILTEN;nobody
+DIA_MILTEN_COMESBACK_02_01.mp3;Ale powiedział, że możesz iść do Torreza i odebrać zwyczajową nagrodę posłańców.;MILTEN;nobody
+DIA_MILTEN_COMESBACK_02_02.mp3;Corristo jest niezwykle uradowany. Powiedział, że możesz iść do Torreza i wybrać sobie nagrodę.;MILTEN;nobody
+DIA_MILTEN_WOTORREZ_02_01.mp3;W ciągu dnia znajdziesz go pewnie przed świątynią.;MILTEN;nobody
+DIA_MILTEN_WOTORREZ_02_02.mp3;Noc spędza w środku, jak my wszyscy, ale tylko magom wolno wchodzić do świątyni, więc możesz z nim porozmawiać jedynie za dnia.;MILTEN;nobody
+DIA_MILTEN_NOCHEINBRIEF_02_01.mp3;Ach, to świetnie! Zaniosę go Corristo.;MILTEN;nobody
+DIA_MILTEN_NOCHEINBRIEF_02_02.mp3;Magowie Wody z pewnością sowicie wynagrodzą cię po powrocie do Nowego Obozu.;MILTEN;nobody
+DIA_MILTEN_PERM_02_01.mp3;Krąg Magów Ognia czerpie swą moc z łaski Innosa. Bóg światła, prawdy i sprawiedliwości roztacza nad nami swoją opiekę.;MILTEN;nobody
+DIA_MILTEN_PERM_02_02.mp3;Magowie są jego wybrańcami i pozostałych ludzi traktują w sposób należny wybrańcom.;MILTEN;nobody
+DIA_MILTEN_PERM_02_03.mp3;Przyjęcie do Kręgu to najważniejszy moment w moim życiu. Opiekę nade mną roztoczył sam Corristo, który twierdzi, że wniosłem do naszej społeczności powiew świeżości.;MILTEN;nobody
+DIA_MILTEN_PERM_02_04.mp3;Od tej chwili cały mój czas poświęcam na ciągłe doskonalenie umiejętności magicznych. Mam nadzieję, że pewnego dnia zostanę przyjęty do wyższego Kręgu.;MILTEN;nobody
+DIA_MILTEN_WANNAMAGE_02_01.mp3;Corristo wybrał mnie, bo oddałem szczególne usługi potężnym Magnatom.;MILTEN;nobody
+DIA_MILTEN_WANNAMAGE_02_02.mp3;Jeśli naprawdę chcesz zostać jego uczniem, musisz wykazać się czymś niezwykłym.;MILTEN;nobody
+DIA_MILTEN_WANNAMAGE_02_03.mp3;No i oczywiście musisz najpierw zostać przyjęty do Starego Obozu. Corristo niechętnie patrzy na ludzi z innych osiedli.;MILTEN;nobody
+INFO_MILTEN_SHWAIT_02_01.mp3;Witaj! Mój przyjaciel Lester, z obozu na bagnie powiadomił mnie o twoich niezwykłych czynach!;MILTEN;nobody
+INFO_MILTEN_SHWAIT_02_02.mp3;Jestem pod wrażeniem. Stałeś się bardzo potężny.;MILTEN;nobody
+INFO_MILTEN_SHWAIT_02_04.mp3;Ach, zawsze skromny, co?;MILTEN;nobody
+INFO_MILTEN_SHGORN_02_02.mp3;Naprawdę? Gdzie?;MILTEN;nobody
+INFO_MILTEN_SHGORN_02_04.mp3;Zapewne nie omieszka mi o tym opowiedzieć podczas naszego następnego spotkania.;MILTEN;nobody
+INFO_MILTEN_SHLESTER_02_02.mp3;Tak, słyszałem. Wygląda na to, że można ci zaufać.;MILTEN;nobody
+INFO_MILTEN_SHLESTER_02_04.mp3;Ach, tu i tam. Spotykamy się w najróżniejszych miejscach.;MILTEN;nobody
+INFO_MILTEN_SHYOU_02_02.mp3;Niedaleko stąd leży starożytny kamienny krąg. W jego centrum znajduje się wejście do podziemnej komory.;MILTEN;nobody
+INFO_MILTEN_SHYOU_02_04.mp3;Tak, coś w tym rodzaju.;MILTEN;nobody
+INFO_MILTEN_SHYOU_02_05.mp3;W tym grobowcu znajduje się przedmiot, który chciałbym zdobyć.;MILTEN;nobody
+INFO_MILTEN_SHME_02_02.mp3;Wygląda na to, że obydwaj szukamy czegoś w tym samym miejscu.;MILTEN;nobody
+INFO_MILTEN_SHPROBLEM_02_02.mp3;Och, to długa historia. Musiałbym zanudzać cię opowieścią o bardzo dawnych czasach.;MILTEN;nobody
+INFO_MILTEN_SHPROBLEM_02_04.mp3;No dobrze! Po utworzeniu magicznej Bariery, która stała się naszym wspólnym więzieniem...;MILTEN;nobody
+INFO_MILTEN_SHPROBLEM_02_05.mp3;... Jeden z magów zamknął pod ziemią potężny artefakt.;MILTEN;nobody
+INFO_MILTEN_SHFOCUS_02_02.mp3;Dokładnie! A więc znasz już historię pięciu kamieni?;MILTEN;nobody
+INFO_MILTEN_SHFOCUS_02_04.mp3;Nie. Nie interesuje mnie kamień ogniskujący. Szukam pewnego talizmanu Orków.;MILTEN;nobody
+INFO_MILTEN_SHSEAL_02_02.mp3;Tak. Strzeże go potężne zaklęcie. Pierwszy rabuś, który spróbuje go zabrać...;MILTEN;nobody
+INFO_MILTEN_SHSEAL_02_03.mp3;... będzie przeklęty i zostanie skazany na wieczną egzystencję jako Ożywieniec. Od tej pory po wsze czasy sam stanie się strażnikiem kamienia, który próbował ukraść.;MILTEN;nobody
+INFO_MILTEN_SHSEAL_02_06.mp3;Kilka lat temu jeden z Magnatów polujący dla rozrywki na Orków okazał się na tyle bezmyślny, że zszedł do grobowca.;MILTEN;nobody
+INFO_MILTEN_SHSEAL_02_07.mp3;Teraz ON jest strażnikiem spoczywających pod ziemią skarbów.;MILTEN;nobody
+INFO_MILTEN_SHTALISMAN_02_02.mp3;Jestem przekonany, że jego poprzedni właściciel wykorzystywał go do ochrony przed rozwścieczonymi Orkami.;MILTEN;nobody
+INFO_MILTEN_SHTALISMAN_02_03.mp3;Jeśli mam rację, ten talizman może się okazać niezwykle przydatny.;MILTEN;nobody
+INFO_MILTEN_SHOFFER_02_02.mp3;W porządku, ale jest pewien mały problem...;MILTEN;nobody
+INFO_MILTEN_SHOFFER_02_04.mp3;Tak. Strażnik podziemnej krypty...;MILTEN;nobody
+INFO_MILTEN_SHOFFER_02_06.mp3;To nie będzie takie proste. Ten ożywieniec zdaje się być niezwykle odporny na działanie zwykłego oręża.;MILTEN;nobody
+INFO_MILTEN_SHOFFER_02_08.mp3;Umm... No cóż... MAM pewien plan, ale nie jestem w stanie sam go wykonać.;MILTEN;nobody
+INFO_MILTEN_SHOFFER2_02_02.mp3;Mam przy sobie magiczny zwój z niezwykle potężnym zaklęciem.;MILTEN;nobody
+INFO_MILTEN_SHOFFER2_02_03.mp3;To zaklęcie natychmiast niszczy wszystkich ożywieńców znajdujących się w okolicy.;MILTEN;nobody
+INFO_MILTEN_SHOFFER2_02_05.mp3;Hmmm... Nie zupełnie! Obawiam się, że nasz przeklęty strażnik nie jest już sam.;MILTEN;nobody
+INFO_MILTEN_SHOFFER2_02_06.mp3;Wygląda na to, że rabusie, którzy przyszli po nim mieli równie mało szczęścia co on sam.;MILTEN;nobody
+INFO_MILTEN_SHOFFER2_02_07.mp3;Pewnego razu zszedłem na dół i mało brakowało, a postradałbym życie. Jeden człowiek nie sprosta wszystkim przeciwnikom.;MILTEN;nobody
+INFO_MILTEN_SHACCEPT_02_02.mp3;Ha! Miałem nadzieję, że to powiesz.;MILTEN;nobody
+INFO_MILTEN_SHACCEPT_02_03.mp3;Niestety, mam tylko jeden zwój. Wykorzystaj go przeciw Strażnikowi.;MILTEN;nobody
+INFO_MILTEN_SHACCEPT_02_04.mp3;Pozostałe ożywieńce można zabić zwykłym orężem.;MILTEN;nobody
+INFO_MILTEN_SHACCEPT_02_06.mp3;Chodź za mną!;MILTEN;nobody
+INFO_MILTEN_SHARRIVED_02_01.mp3;No i jesteśmy. Ten tunel prowadzi wprost do grobowca.;MILTEN;nobody
+INFO_MILTEN_SHHEAL_02_02.mp3;Weź ten napój uzdrawiający.;MILTEN;nobody
+INFO_MILTEN_SHHEAL_02_03.mp3;Nie mam już żadnych magicznych wywarów.;MILTEN;nobody
+INFO_MILTEN_SHRUNNING_02_02.mp3;Więc zniszcz go przy użyciu magicznego zwoju!;MILTEN;nobody
+INFO_MILTEN_SHSCROLL_02_02.mp3;Jesteśmy zgubieni! Chyba, że znajdziesz jakiś inny sposób, żeby go pokonać!;MILTEN;nobody
+INFO_MILTEN_SHSCROLL_02_03.mp3;Może w którymś z obozów uda ci się kupić następny zwój albo magiczną runę.;MILTEN;nobody
+INFO_MILTEN_SHSCROLL_02_04.mp3;Zaczekam na ciebie w miejscu, w którym się spotkaliśmy.;MILTEN;nobody
+INFO_MILTEN_SHNEWSCROLL_02_02.mp3;To wspaniale! Możemy złożyć Strażnikowi kolejną wizytę!;MILTEN;nobody
+INFO_MILTEN_SHNEWSCROLL_02_03.mp3;Idź przodem. Pójdę za tobą.;MILTEN;nobody
+INFO_MILTEN_SHLEAVE_02_01.mp3;Czyżbyś stracił zainteresowanie tym grobowcem?;MILTEN;nobody
+INFO_MILTEN_SHLEAVE_02_02.mp3;Jakbyś zmienił zdanie, znajdziesz mnie w miejscu naszego pierwszego spotkania.;MILTEN;nobody
+INFO_MILTEN_SHCONTINUE_02_02.mp3;Jestem gotów. Idź przodem. Pójdę za tobą.;MILTEN;nobody
+INFO_MILTEN_SHSUCCESS_02_01.mp3;Dobrze. Widzę, że znalazłeś talizman.;MILTEN;nobody
+INFO_MILTEN_SHSUCCESS_02_03.mp3;Dziękuję, przyjacielu. Nigdy nie zapominam o ludziach, którzy mi pomogli.;MILTEN;nobody
+INFO_MILTEN_SHSUCCESS_02_04.mp3;Wrócę teraz do Starego Obozu. Może tam się jeszcze kiedyś spotkamy.;MILTEN;nobody
+INFO_MILTEN_OCWARN_02_01.mp3;Oni... nie żyją... Wszyscy zginęli... Nie mogłem im pomóc... Byłem za daleko... Ja...;MILTEN;nobody
+INFO_MILTEN_OCWARN_02_03.mp3;Zatem wiesz już, co się stało. Co ci powiedział Diego?;MILTEN;nobody
+INFO_MILTEN_OCWARN_02_05.mp3;Powodzenia i uważaj na siebie!;MILTEN;nobody
+INFO_MILTEN_OCWARN_02_07.mp3;Wymordowali Magów Ognia! Wszystkich... oprócz mnie. Ale nawet ja otarłem się o śmierć.;MILTEN;nobody
+INFO_MILTEN_OCWARN_02_09.mp3;Już dobrze, uspokój się, przyjacielu.;MILTEN;nobody
+INFO_MILTEN_OCWARN_02_10.mp3;Wszystko zaczęło się od zawalenia Starej Kopalni?;MILTEN;nobody
+INFO_MILTEN_OCWARN_02_12.mp3;Tak. To działo się tak szybko. Nikt nie zdołał się wydostać.;MILTEN;nobody
+INFO_MILTEN_OCWARN_02_13.mp3;Strażnicy zablokowali wejście do kopalni.;MILTEN;nobody
+INFO_MILTEN_OCMINE_02_02.mp3;Nie mam pojęcia. Kilku Kopaczy stojących przy wejściu mówiło coś o potężnym wstrząsie i wielkiej chmurze pyłu z tunelu.;MILTEN;nobody
+INFO_MILTEN_OCMINE_02_04.mp3;Tak. Stąd wiem o zawaleniu się kopalni.;MILTEN;nobody
+INFO_MILTEN_OCKDW_02_02.mp3;Wiem tylko, że wszyscy zostali zabici przez Magnatów tuż po zawaleniu się Starej Kopalni.;MILTEN;nobody
+INFO_MILTEN_OCKDW_02_03.mp3;Kiedy wróciłem z naszej wyprawy pod kamienny krąg, strażnicy przy bramie rzucili się na mnie bez ostrzeżenia.;MILTEN;nobody
+INFO_MILTEN_OCKDW_02_04.mp3;Krzyczeli "zdrajca" i "spiskowiec". Ledwie uszedłem z życiem.;MILTEN;nobody
+INFO_MILTEN_OCWHY_02_02.mp3;Wiem, ale nie miałem czasu, żeby zapytać strażników. Zaatakowali mnie natychmiast.;MILTEN;nobody
+INFO_MILTEN_OCWHY_02_03.mp3;Może Diego będzie wiedział więcej. Był w Obozie, kiedy rozegrała się ta tragedia.;MILTEN;nobody
+INFO_MILTEN_OCYOU_02_02.mp3;Nie. Diego kazał mi pilnować drugiego wejścia do Obozu. Mamy ostrzegać naszych przyjaciół przed niebezpieczeństwem.;MILTEN;nobody
+INFO_MILTEN_OCYOU_02_03.mp3;Proszę, porozmawiaj z Diego!;MILTEN;nobody
+INFO_MILTEN_OCDIEGO_02_02.mp3;Ukrywa się po drugiej stronie Obozu, w pobliżu tylnej bramy.;MILTEN;nobody
+INFO_MILTEN_OCDIEGO_02_03.mp3;Musisz z nim koniecznie porozmawiać!;MILTEN;nobody
+INFO_MILTEN_LOADSWORD_02_01.mp3;Witaj, przyjacielu! Dawno się nie widzieliśmy.;MILTEN;nobody
+INFO_MILTEN_LOADSWORD1_02_02.mp3;Co się stało? Jak mogę ci pomóc?;MILTEN;nobody
+INFO_MILTEN_LOADSWORD1_02_04.mp3;Dobrze. Chodź za mną.;MILTEN;nobody
+INFO_MILTEN_LSAWAY_02_01.mp3;A teraz mów - co się stało?;MILTEN;nobody
+INFO_MILTEN_LSAWAY_02_03.mp3;Żartujesz sobie ze mnie!;MILTEN;nobody
+INFO_MILTEN_LSAWAY_02_07.mp3;XARDAS?! Zaczynasz mnie przerażać!;MILTEN;nobody
+INFO_MILTEN_LSAWAY_02_08.mp3;Nikt z nim nie rozmawiał odkąd opuścił Stary Obóz.;MILTEN;nobody
+INFO_MILTEN_LSAWAY_02_10.mp3;Do czego potrzebna ci jest energia kopca rudy?;MILTEN;nobody
+INFO_MILTEN_LSAWAY_02_12.mp3;Cóż za niesamowita broń!;MILTEN;nobody
+INFO_MILTEN_LOADSWORD4_02_03.mp3;Hmmm... Mówisz, że trzeba je tylko odczytać?;MILTEN;nobody
+INFO_MILTEN_LOADSWORD4_02_04.mp3;Ale Saturas i jego magowie nie puszczą nam tego płazem!;MILTEN;nobody
+INFO_MILTEN_LSRISK_02_04.mp3;Nic nie rozumiem.;MILTEN;nobody
+INFO_MILTEN_LSRISK_02_06.mp3;Dobrze! Po tym wszystkim, co dla nas zrobiłeś, ufam ci bezgranicznie.;MILTEN;nobody
+INFO_MILTEN_LSRISK_02_07.mp3;No i wygląda na to, że nawet Xardas darzy cię zaufaniem.;MILTEN;nobody
+INFO_MILTEN_LSRISK_02_08.mp3;Spotkamy się przy kopcu rudy. Tylko nikomu ani słowa!;MILTEN;nobody
+INFO_MILTEN_LSOREHEAP_02_01.mp3;Masz miecz i zaklęcie?;MILTEN;nobody
+INFO_MILTEN_LSNOW_02_03.mp3;Nie, ale nie mamy wielkiego wyboru. Teraz albo nigdy!;MILTEN;nobody
+INFO_MILTEN_LSDONE_02_01.mp3;Gotowe!;MILTEN;nobody
+INFO_MILTEN_LSDONE_02_03.mp3;To dobry znak! Wygląda na to, że cała energia z kopca została przeniesiona na miecz!;MILTEN;nobody
+INFO_MILTEN_LSDONE_02_04.mp3;Ale nasze działania zwróciły uwagę strażników!;MILTEN;nobody
+INFO_MILTEN_LSDONE_02_05.mp3;Teleportuj się stąd, natychmiast!;MILTEN;nobody
+INFO_MILTEN_LSDONE_02_07.mp3;O mnie się nie martw! Coś wymyślę! Uciekaj stąd! Już!;MILTEN;nobody
+INFO_LESTER_EXIT_05_01.mp3;Chodźmy.;LESTER;nobody
+INFO_LESTER_EXIT_05_02.mp3;Niech Śniący ma cię w swojej opiece!;LESTER;nobody
+DIA_LESTER_SAKRILEG_05_00.mp3;Odezwałeś się do Guru! Nigdy więcej tego nie rób, to bluźnierstwo! Jeśli jakiś mistrz zechce z tobą rozmawiać, sam się do ciebie odezwie.;LESTER;nobody
+DIA_LESTER_HALLO_05_01.mp3;Nazywam się Lester. Zajmuję się naszymi nowymi gośćmi.;LESTER;nobody
+DIA_LESTER_HALLO_05_02.mp3;Masz szczęście, że nie odezwałeś się do Baal Namiba. Obcym nie wolno rozmawiać z Guru.;LESTER;nobody
+DIA_LESTER_WANNATALKTOMASTER_05_01.mp3;Nie próbuj! Gwarantuję ci, że potrafię udzielić ci wszystkich potrzebnych informacji.;LESTER;nobody
+DIA_LESTER_CAMPINFO_05_01.mp3;A co chcesz wiedzieć?;LESTER;nobody
+DIA_LESTER_CAMPINFO_GIL_05_01.mp3;Najwyższą kastę stanowią Guru. To niezwykle potężni duchowi przywódcy naszego obozu. Strażnicy Świątyni wykorzystują siłę swego ducha w walce.;LESTER;nobody
+DIA_LESTER_CAMPINFO_GIL_05_02.mp3;Ich ciało i duch funkcjonują w idealnej harmonii. Lepiej nie wchodź im w drogę. Ja natomiast jestem Nowicjuszem. Naszym zadaniem jest wykonywanie wszystkich pomniejszych zadań, no i oczywiście żarliwa modlitwa do Śniącego.;LESTER;nobody
+DIA_LESTER_CAMPINFO_GIL_05_03.mp3;Niektórzy Nowicjusze dostąpili zaszczytu pobierania nauk u Guru, ale aby to osiągnąć, trzeba służyć w Obozie przynajmniej kilka lat.;LESTER;nobody
+DIA_LESTER_CAMPINFO_SLEEPER_05_01.mp3;Śniący to boska istota, która zsyła nam wizje objawiające jego wolę. W każdym razie zsyła je Guru.;LESTER;nobody
+DIA_LESTER_CAMPINFO_SLEEPER_05_02.mp3;Modlimy się do niego, bo obiecał zwrócić nam wolność.;LESTER;nobody
+DIA_LESTER_CAMPINFO_SLEEPER_05_04.mp3;Hej, jestem w tej kolonii od dwóch lat. Wiesz jak długie mogą się wydać DWA LATA w więzieniu?!;LESTER;nobody
+DIA_LESTER_CAMPINFO_SLEEPER_05_05.mp3;Nie wyobrażasz sobie w co byłbym w stanie uwierzyć, byle tylko wydostać się z tego przeklętego miejsca!;LESTER;nobody
+DIA_LESTER_CAMPINFO_HERB_05_01.mp3;Cóż, ziele rośnie wyłącznie na bagnach. Zanim da się je palić, trzeba je odpowiednio przetworzyć. Tym właśnie zajmują się Nowicjusze.;LESTER;nobody
+DIA_LESTER_CAMPINFO_HERB_05_02.mp3;Ziele ma działanie relaksujące i uspokajające. Dzięki niemu można osiągnąć stan umysłu pozwalający na nawiązanie kontaktu ze Śniącym.;LESTER;nobody
+DIA_LESTER_CAMPINFO_HERB_05_03.mp3;Część zebranego ziela wymieniamy ze Starym Obozem. Tam też pozyskujemy nowych członów Bractwa.;LESTER;nobody
+DIA_LESTER_CAMPINFO_HERB_05_04.mp3;Wielu z nich dołącza do nas tylko ze względu na ziele, ale przynajmniej pomagają nam w pracy.;LESTER;nobody
+DIA_LESTER_WANNAJOIN_05_01.mp3;O tym, czy możesz zostać jednym z nich zadecyduje Cor Kalom.;LESTER;nobody
+DIA_LESTER_WANNAJOIN_05_02.mp3;Ale on polega zwykle na opinii pozostałych Guru. Baal Namib na przykład jest jednym z nich.;LESTER;nobody
+DIA_LESTER_WANNAJOIN_05_03.mp3;Najpierw musisz udowodnić, że jesteś godny, by należeć do Bractwa. Dopiero wtedy Guru wyślą cię do Cor Kaloma.;LESTER;nobody
+DIA_LESTER_HOWPROOFWORTHY_05_01.mp3;Chociaż trudno w to uwierzyć, Guru będą obserwowali każdy twój krok.;LESTER;nobody
+DIA_LESTER_HOWPROOFWORTHY_05_02.mp3;Jeśli uznają, że zasługujesz na zostanie jednym z nas, sami się do ciebie odezwą.;LESTER;nobody
+DIA_LESTER_HOWPROOFWORTHY_05_03.mp3;Z pewnością znajdziesz w Obozie wiele okazji, by udowodnić swoją przydatność.;LESTER;nobody
+DIA_LESTER_WEITWEG_05_01.mp3;Musisz wiedzieć, co chciałby usłyszeć?;LESTER;nobody
+DIA_LESTER_WEITWEG_05_03.mp3;Kiedy następnym razem będziemy blisko niego, zwrócisz się do mnie i porozmawiamy chwilę.;LESTER;nobody
+DIA_LESTER_WEITWEG_05_04.mp3;Baal Namib martwi się, gdyż wielu Nowicjuszy oprócz modlitwy do Śniącego czci jeszcze starych bogów.;LESTER;nobody
+DIA_LESTER_WEITWEG_05_05.mp3;Powiesz mi, że wyrzekłeś się innych bóstw i od tej pory zamierzasz wznosić modły wyłącznie do Śniącego.;LESTER;nobody
+DIA_LESTER_WEITWEG_05_06.mp3;Wtedy ja zapytam dlaczego podjąłeś taką decyzję, a ty odpowiesz, że przeżyłeś wizję, w której Śniący wzywał cię do siebie.;LESTER;nobody
+DIA_LESTER_WEITWEG_05_07.mp3;To go powinno zainteresować. Myślisz, że dasz sobie radę?;LESTER;nobody
+DIA_LESTER_SHOWHALLO_05_00.mp3;ACH! MIŁO CIĘ ZNÓW WIDZIEĆ. CO U CIEBIE SŁYCHAĆ?;LESTER;nobody
+DIA_LESTER_SHOW_05_01.mp3;CZYŻBY? CO CIĘ SKŁONIŁO DO TAK DRASTYCZNYCH KROKÓW?;LESTER;nobody
+DIA_LESTER_SHOW_05_03.mp3;I CO POWIEDZIAŁ?;LESTER;nobody
+DIA_LESTER_SHOW_05_05.mp3;JESTEŚ SZCZĘŚLIWYM CZŁOWIEKIEM, NIEZNAJOMY: TYLKO NIELICZNI DOSTĄPILI TAKIEJ NAGRODY.;LESTER;nobody
+DIA_LESTER_GUIDEOFFER_05_01.mp3;Mogę ci pokazać wszystko, co warto tu obejrzeć.;LESTER;nobody
+INFO_LESTER_DIEGOMILTEN_05_02.mp3;Zostanę tutaj, żeby przejrzeć stare księgi.;LESTER;nobody
+INFO_DIEGO_GAMESTART_11_00.mp3;Nazywam się Diego.;DIEGO;nobody
+INFO_DIEGO_GAMESTART_11_02.mp3;Nie interesuje mnie kim jesteś. Jesteś tu nowy - a do mnie należy dbanie o nowych. Na razie to tyle...;DIEGO;nobody
+INFO_DIEGO_GAMESTART_11_03.mp3;Jeśli chcesz jeszcze trochę pożyć, słuchaj się mnie, ale oczywiście nie będę ci przeszkadzał w ewentualnej próbie samobójstwa. To jak będzie?;DIEGO;nobody
+INFO_DIEGO_EXIT_GAMESTART_11_01.mp3;Jak sobie chcesz. Miło było cię poznać.;DIEGO;nobody
+INFO_DIEGO_EXIT_GAMESTART_11_02.mp3;Spotkamy się w Starym Obozie.;DIEGO;nobody
+INFO_DIEGO_EXIT_11_01.mp3;Chodźmy.;DIEGO;nobody
+INFO_DIEGO_BRIEF_11_01.mp3;Czyżby...?;DIEGO;nobody
+INFO_DIEGO_BRIEF_11_03.mp3;Twoje szczęście, że nie mogę się więcej pokazywać u magów. Ktoś inny mógłby ci poderżnąć gardło za taki list.;DIEGO;nobody
+INFO_DIEGO_BRIEF_11_04.mp3;A to dlatego, że magowie hojnie opłacają swoich kurierów, a większość z tutejszych ludzi nic nie posiada.;DIEGO;nobody
+INFO_DIEGO_BRIEF_11_05.mp3;Na twoim miejscu trzymałbym język za zębami aż do chwili, gdy spotkasz któregoś z magów. Chociaż wątpię, żeby ci się udało.;DIEGO;nobody
+INFO_DIEGO_BRIEF_11_07.mp3;Magowie mieszkają w zamku, w Starym Obozie. Tylko ludzie Gomeza mają tam wstęp.;DIEGO;nobody
+INFO_DIEGO_WARUMGEHOLFEN_11_01.mp3;Bo potrzebowałeś pomocy. Gdyby nie ja, Bullit i jego chłopcy mogliby cię wykończyć.;DIEGO;nobody
+INFO_DIEGO_WARUMGEHOLFEN_11_02.mp3;A ja jestem zbyt miły, żeby się temu spokojnie przyglądać. W końcu przebyłem całą tę drogę po to, by złożyć ci propozycję.;DIEGO;nobody
+INFO_DIEGO_WARUMGEHOLFEN_11_04.mp3;Tak. Po tym zajściu z Bullitem i jego ludźmi powinieneś się domyślić, że przyda ci się ochrona.;DIEGO;nobody
+INFO_DIEGO_WARUMGEHOLFEN_11_05.mp3;Każdy, kto tu trafia ma wybór. W kolonii są trzy obozy i w końcu będziesz musiał do któregoś dołączyć.;DIEGO;nobody
+INFO_DIEGO_WARUMGEHOLFEN_11_06.mp3;Jestem tu, by udowodnić wszystkim nowym, że najlepszym miejscem dla nich będzie Stary Obóz.;DIEGO;nobody
+INFO_DIEGO_BULLIT_11_03.mp3;On i pozostali przenoszą towary z zewnątrz do Obozu. Tam go znajdziesz.;DIEGO;nobody
+INFO_DIEGO_BULLIT_11_04.mp3;Ale jeśli chcesz z nim walczyć, radzę ci uważać. To doświadczony wojownik.;DIEGO;nobody
+INFO_DIEGO_KOLONIE_11_01.mp3;Nazywamy je kolonią. Wiesz już, że wydobywamy rudę dla króla.;DIEGO;nobody
+INFO_DIEGO_KOLONIE_11_02.mp3;Cóż, w każdym razie tak robią ludzie ze Starego Obozu.;DIEGO;nobody
+INFO_DIEGO_KOLONIE_11_03.mp3;Wewnątrz Bariery powstały trzy obozy. Największy i najstarszy jest tak zwany Stary Obóz.;DIEGO;nobody
+INFO_DIEGO_BARRIERE_11_01.mp3;Nie ma za bardzo o czym mówić. Jest nie do sforsowania.;DIEGO;nobody
+INFO_DIEGO_BARRIERE_11_03.mp3;Ostatni, który tego spróbował dotarł na drugą stronę jako trup. Przez to przeklęte magiczne pole można wejść, ale już nigdy się stąd nie wydostaniesz.;DIEGO;nobody
+INFO_DIEGO_BARRIERE_11_05.mp3;Tak ci spieszno, żeby się stąd wyrwać? Dopiero co tu trafiłeś!;DIEGO;nobody
+INFO_DIEGO_OTHERCAMPS_11_01.mp3;Te dwa obozy zamieszkują szaleńcy, którzy próbują się stąd wydostać za wszelką cenę.;DIEGO;nobody
+INFO_DIEGO_OTHERCAMPS_11_02.mp3;W zachodniej części kolonii znajduje się Nowy Obóz. Rezydują tam magowie, którzy myślą, że uda się im wysadzić Barierę, jak tylko zbiorą dostatecznie dużo rudy.;DIEGO;nobody
+INFO_DIEGO_OTHERCAMPS_11_03.mp3;No i są jeszcze świry z Sekty, na wschodzie. Ich obóz znajduje się na środku bagna. Oni z kolei czekają aż ich bóstwo pomoże im się stąd wydostać.;DIEGO;nobody
+INFO_DIEGO_OTHERCAMPS_11_04.mp3;Wygląda na to, że jeszcze trochę poczekają.;DIEGO;nobody
+INFO_DIEGO_OTHERCAMPS_11_05.mp3;Na twoim miejscu nie traciłbym czasu na zadawanie się z szaleńcami.;DIEGO;nobody
+INFO_DIEGO_OLDCAMP_11_01.mp3;To największy i najpotężniejszy z trzech obozów. Gomez i jego ludzie kontrolują kopalnię, a tym samym - cały handel ze światem zewnętrznym.;DIEGO;nobody
+INFO_DIEGO_OLDCAMP_11_02.mp3;Raz w miesiącu król przysyła nam wszystko, czego potrzebujemy. Mamy staruszka w garści, kapujesz?;DIEGO;nobody
+INFO_DIEGO_OLDCAMP_11_03.mp3;Przysyła nam broń, chleb, mięso... wszystko.;DIEGO;nobody
+INFO_DIEGO_OLDCAMP_11_04.mp3;Ty też możesz mieć w tym udział. Musisz tylko dołączyć do ludzi Gomeza.;DIEGO;nobody
+INFO_DIEGO_WHOSGOMEZ_11_01.mp3;Gomez jest najpotężniejszym z Magnatów kierujących handlem rudą. To on rządzi w Starym Obozie i ma najwięcej do powiedzenia w całej kolonii.;DIEGO;nobody
+INFO_DIEGO_JOINOLDCAMP_11_01.mp3;Przy bramie do zamku znajdziesz człowieka imieniem Thorus. Powiedz mu, że Diego cię przysłał.;DIEGO;nobody
+INFO_DIEGO_WAYTOOLDCAMP_11_01.mp3;Podążaj tą ścieżką. Stary Obóz to najbliższe, mniej więcej bezpieczne miejsce jakie napotkasz po drodze.;DIEGO;nobody
+INFO_DIEGO_WAYTOOLDCAMP_11_02.mp3;Pomiędzy obozami kręci się wiele groźnych zwierząt. Radziłbym ci postarać się o jakąś broń.;DIEGO;nobody
+INFO_DIEGO_WOWAFFE_11_01.mp3;Rozejrzyj się trochę w pobliżu Opuszczonej Kopalni. Na pewno znajdziesz tam coś przydatnego.;DIEGO;nobody
+INFO_DIEGO_WOWAFFE_11_02.mp3;Kopalnię nie trudno znaleźć. Leży parę metrów w dół kanionu.;DIEGO;nobody
+INFO_DIEGO_THORUSSAYS_11_01.mp3;I co ci powiedział?;DIEGO;nobody
+INFO_DIEGO_THORUSSAYS_11_03.mp3;Widzę, że czeka mnie dodatkowa robota.;DIEGO;nobody
+INFO_DIEGO_THORUSSAYS_11_05.mp3;Najpierw powinieneś dowiedzieć się kilku rzeczy.;DIEGO;nobody
+INFO_DIEGO_RULES_11_01.mp3;Jeśli chcesz do nas należeć, musisz najpierw zaplusować u kilku ludzi.;DIEGO;nobody
+INFO_DIEGO_RULES_11_02.mp3;W Zewnętrznym Pierścieniu możesz spotkać paru wpływowych ludzi, głównie Cieni. Jeśli uda ci się ich do siebie przekonać, twoje szanse wzrosną.;DIEGO;nobody
+INFO_DIEGO_RULES_11_03.mp3;Później czeka cię test zaufania.;DIEGO;nobody
+INFO_DIEGO_RULES_11_04.mp3;Oprócz tego musisz się jeszcze wiele nauczyć. Im więcej nowych umiejętności zdobędziesz, tym cenniejszy będziesz dla nas.;DIEGO;nobody
+INFO_DIEGO_CELEBS_11_01.mp3;Cóż, na jednego z nich właśnie patrzysz. Poza tym, jest jeszcze Thorus, jego już znasz.;DIEGO;nobody
+INFO_DIEGO_CELEBS_11_02.mp3;Co do pozostałych... sam musisz ich rozpoznać. Jeśli nie jesteś w stanie tego zrobić, to i tak nie masz tu czego szukać.;DIEGO;nobody
+INFO_DIEGO_CELEBS_11_03.mp3;Najlepiej przejdź się po Zewnętrznym Pierścieniu i porozmawiaj z ludźmi.;DIEGO;nobody
+INFO_DIEGO_TEACHERS_11_01.mp3;Zacznij od Rączki. To najzręczniejszy człowiek w Obozie.;DIEGO;nobody
+INFO_DIEGO_TEACHERS_11_02.mp3;Miej oczy szeroko otwarte, a na pewno znajdziesz wielu ludzi, którzy zechcą cię czegoś nauczyć.;DIEGO;nobody
+INFO_DIEGO_TEACHERS_11_04.mp3;Jego chata stoi nieco na uboczu, zaraz przy murach zamku. Idąc stąd udaj się w stronę areny.;DIEGO;nobody
+INFO_DIEGO_TEACHERS_11_05.mp3;Przy zamkowej bramie pójdź w lewo. To właśnie droga do areny.;DIEGO;nobody
+INFO_DIEGO_TEACH_11_01.mp3;Tak. Mogę ci pokazać, jak zwiększyć swoją siłę lub zręczność.;DIEGO;nobody
+INFO_DIEGO_TEACH_BACK_11_00.mp3;Jesteś teraz o wiele silniejszy.;DIEGO;nobody
+INFO_DIEGO_TEACH_BACK_11_01.mp3;Umiesz teraz sprawniej posługiwać się łukiem i kuszą.;DIEGO;nobody
+INFO_DIEGO_TEACH_BACK_11_02.mp3;Wróć niedługo. Musisz się jeszcze wiele nauczyć.;DIEGO;nobody
+INFO_DIEGO_BRINGLIST_OFFER_11_01.mp3;Będziesz się musiał wybrać do Starej Kopalni. Tam znajdziesz faceta imieniem Ian. Od niego dostaniesz listę.;DIEGO;nobody
+INFO_DIEGO_BRINGLIST_OFFER_11_02.mp3;To bardzo ważny dokument. Zawiera spis wszystkich rzeczy, których potrzebują od nas ludzie z kopalni.;DIEGO;nobody
+INFO_DIEGO_BRINGLIST_OFFER_11_03.mp3;Postaramy się, żeby dostarczono je z następnym konwojem.;DIEGO;nobody
+INFO_DIEGO_BRINGLIST_OFFER_11_05.mp3;Właśnie że jest problem. Ta lista nie może wpaść w ręce ludzi z Nowego Obozu!;DIEGO;nobody
+INFO_DIEGO_BRINGLIST_OFFER_11_06.mp3;Jak już powiedziałem: to bardzo ważna lista. Jeśli nie zawalisz - daleko tu zajdziesz.;DIEGO;nobody
+INFO_DIEGO_IANPASSWORD_INFO_11_02.mp3;Bo powiesz mu, że przysłał cię Diego.;DIEGO;nobody
+INFO_DIEGO_MAPTOOLDMINE_INFO_11_01.mp3;Porozmawiaj z Grahamem, to nasz kartograf. Powiedz mu, że ja cię przysyłam, i że potrzebujesz mapy. Z niej dowiesz się, gdzie leży kopalnia.;DIEGO;nobody
+INFO_DIEGO_MAPTOOLDMINE_INFO_11_02.mp3;Graham mieszka na lewo od północnej bramy.;DIEGO;nobody
+INFO_DIEGO_BRINGLIST_SUCCESS_11_01.mp3;Dobra robota! Zaczynasz mi się naprawdę podobać!;DIEGO;nobody
+INFO_DIEGO_JOINANALYZE_11_01.mp3;Rozmawiałem z kilkoma ludźmi...;DIEGO;nobody
+INFO_DIEGO_JOINANALYZE_SCATTY_11_01.mp3;Scatty powiedział mi, że pokonałeś Kirgo.;DIEGO;nobody
+INFO_DIEGO_JOINANALYZE_SCATTY_11_02.mp3;Scatty powiedział mi, że pozwoliłeś Kirgo spuścić sobie baty. Chyba nie jest tobą zachwycony.;DIEGO;nobody
+INFO_DIEGO_JOINANALYZE_SCATTY_11_03.mp3;Scatty powiedział mi, że nie może się doczekać na twoją walkę z Kirgo.;DIEGO;nobody
+INFO_DIEGO_JOINANALYZE_SCATTY_11_04.mp3;Ale był pod wrażeniem twojej śmiałości. Nie każdy miałby odwagę, żeby wyzwać Kharima. Choćby nawet z nim przegrał.;DIEGO;nobody
+INFO_DIEGO_JOINANALYZE_SCATTY_11_05.mp3;Ale był pod wielkim wrażeniem twojej walki z Kharimem. Bez przerwy opowiada jaki to z ciebie wojownik.;DIEGO;nobody
+INFO_DIEGO_JOINANALYZE_SCATTY_11_06.mp3;I nie może się doczekać, kiedy staniesz do walki z Kharimem.;DIEGO;nobody
+INFO_DIEGO_JOINANALYZE_WHISTLER_11_01.mp3;Świstak opowiedział mi o tej historii z Fiskiem... Cóż, na twoim miejscu wziąłbym tę rudę i dał nogę, ale tak, czy inaczej - Świstak chyba bardzo cię polubił.;DIEGO;nobody
+INFO_DIEGO_JOINANALYZE_WHISTLER_11_02.mp3;Rozmawiałem ze Świstakiem. Zwiałeś z jego rudą, cwaniaku! Muszę przyznać, że śmiałości ci nie brakuje!;DIEGO;nobody
+INFO_DIEGO_JOINANALYZE_WHISTLER_11_03.mp3;Świstak czeka na swój miecz. Zdecyduj się wreszcie czy zamierzasz mu go dać, czy nie. W przeciwnym wypadku może pomyśleć, że zwiałeś z jego rudą!;DIEGO;nobody
+INFO_DIEGO_JOINANALYZE_SLY_11_01.mp3;Zły powiedział mi, że znalazłeś Neka. Wydawał się być bardzo zadowolony.;DIEGO;nobody
+INFO_DIEGO_JOINANALYZE_SLY_11_02.mp3;Moim zdaniem Zły myli się co do Neka. Był uciążliwy, to fakt, ale nie wierzę, żeby zdezerterował do Nowego Obozu.;DIEGO;nobody
+INFO_DIEGO_JOINANALYZE_FINGERS_11_01.mp3;Mówiłem ci już o Rączce! On może cię wiele nauczyć!;DIEGO;nobody
+INFO_DIEGO_JOINANALYZE_FINGERS_11_02.mp3;Rączka powiedział mi, że trochę się już nauczyłeś, ale uważa, że mógłbyś być jeszcze lepszy.;DIEGO;nobody
+INFO_DIEGO_JOINANALYZE_DEXTER_11_01.mp3;Muszę poważnie porozmawiać z Dexterem. Wykorzystuje cię do załatwiania własnych porachunków.;DIEGO;nobody
+INFO_DIEGO_JOINANALYZE_DEXTER_11_02.mp3;Ale jeśli chodzi o nasz test - nie ma żadnych przepisów. Jeśli uda ci się dokonać czegoś TAKIEGO, to będzie wielki krok do przodu.;DIEGO;nobody
+INFO_DIEGO_JOINANALYZE_DEXTER_11_03.mp3;Naprawdę udało ci się zdobyć przepis Kaloma. Dexter jest pod wrażeniem. Ja zresztą też!;DIEGO;nobody
+INFO_DIEGO_JOINANALYZE_THORUS_11_01.mp3;Ta sprawa z Mordragiem to nie lada wyzwanie. Niezły z niego wojownik. Musisz porządnie poćwiczyć, jeśli chcesz go pokonać.;DIEGO;nobody
+INFO_DIEGO_JOINANALYZE_THORUS_11_02.mp3;Thorus uważa, że przyda się nam ktoś taki jak ty - to dla ciebie niezwykle korzystne.;DIEGO;nobody
+INFO_DIEGO_JOINANALYZE_THORUS_11_03.mp3;Thorus dostał ataku apopleksji. Zresztą wcale mu się nie dziwię. Jak można AŻ TAK schrzanić robotę?;DIEGO;nobody
+INFO_DIEGO_JOINANALYZE_FISK_11_01.mp3;Fisk powiedział mi, ze go zaskoczyłeś. W każdym razie będzie po twojej stronie.;DIEGO;nobody
+INFO_DIEGO_JOINANALYZE_FISK_11_02.mp3;Fisk bardzo się na ciebie wkurzył. Na twoim miejscu znalazłbym kogoś na miejsce Mordraga.;DIEGO;nobody
+INFO_DIEGO_POINTS_11_00.mp3;Udało ci się zjednać wystarczająco wiele osób.;DIEGO;nobody
+INFO_DIEGO_POINTS_11_01.mp3;Przeszedłeś również test zaufania. Idź do Thorusa. Już go o wszystkim powiadomiłem. Pozwoli ci się spotkać z Gomezem.;DIEGO;nobody
+INFO_DIEGO_POINTS_11_02.mp3;Ale musisz jeszcze przejść test zaufania.;DIEGO;nobody
+INFO_DIEGO_POINTS_11_10.mp3;W sumie - całkiem nieźle jak na żółtodzioba.;DIEGO;nobody
+INFO_DIEGO_POINTS_11_20.mp3;Bierz się do roboty. Przed tobą jeszcze daleka droga, jeśli chcesz do czegoś dojść w tym obozie.;DIEGO;nobody
+INFO_DIEGO_WHATTOSAYTOGOMEZ_INFO_11_01.mp3;Gomez podejmuje decyzje na podstawie instynktu. Jeśli spodoba mu się twoja gęba - pozwoli ci zostać.;DIEGO;nobody
+INFO_DIEGO_WHATTOSAYTOGOMEZ_INFO_11_02.mp3;Od tej pory musisz sobie radzić sam - postaraj się! Powodzenia!;DIEGO;nobody
+INFO_DIEGO_OCWARN_11_01.mp3;Hej... Ciii... Bądź cicho!;DIEGO;nobody
+INFO_DIEGO_OCWARN_11_03.mp3;Dobrze, zatem wiesz już, co się stało.;DIEGO;nobody
+INFO_DIEGO_OCWARN_11_04.mp3;A słyszałeś o planowanym ataku na Wolną Kopalnię?;DIEGO;nobody
+INFO_DIEGO_OCWARN_11_06.mp3;Nic nie słyszałeś?;DIEGO;nobody
+INFO_DIEGO_OCWARN_11_08.mp3;O zawaleniu się Starej Kopalni, zamordowaniu Magów Ognia i planach ataku na Wolną Kopalnię.;DIEGO;nobody
+INFO_DIEGO_OCMINE_11_02.mp3;Jeden z Kopaczy, któremu udało się uratować, powiedział, że kopiąc na najniższym poziomie trafili na podziemną rzekę.;DIEGO;nobody
+INFO_DIEGO_OCMINE_11_03.mp3;Kiedy woda wdarła się do szybów, popękały podpory i runęła cała górna część.;DIEGO;nobody
+INFO_DIEGO_OCMINE_11_04.mp3;Tylko garstce ludzi udało się wydostać na powierzchnię.;DIEGO;nobody
+INFO_DIEGO_OCKDF_11_02.mp3;To długa historia.;DIEGO;nobody
+INFO_DIEGO_OCFM_11_02.mp3;To długa historia.;DIEGO;nobody
+INFO_DIEGO_OCSTORY_11_02.mp3;No dobra. Na szczęście byłem właśnie w siedzibie Magnatów, kiedy dotarły do nich wieści o zawaleniu się kopalni.;DIEGO;nobody
+INFO_DIEGO_OCSTORY_11_03.mp3;Kiedy Gomez dowiedział się o wypadku, oszalał z wściekłości. Wcale mu się nie dziwię - jego autorytet mógł runąć w każdej chwili, razem z kopalnią.;DIEGO;nobody
+INFO_DIEGO_OCSTORY_11_05.mp3;No właśnie. Przecież bez stałego napływu rudy, handel ze światem zewnętrznym padnie raz - dwa.;DIEGO;nobody
+INFO_DIEGO_OCSTORY_11_06.mp3;Jeśli Gomez nie znajdzie szybko nowego źródła dochodu, ludzie przestaną go słuchać.;DIEGO;nobody
+INFO_DIEGO_OCSTORY_11_08.mp3;Cóż, obiektywnie rzecz biorąc, to jedyna szansa Gomeza na zachowanie władzy.;DIEGO;nobody
+INFO_DIEGO_OCSTORY_11_09.mp3;Dwie godziny temu dwa tuziny strażników wyruszyły w kierunku Wolnej Kopalni.;DIEGO;nobody
+INFO_DIEGO_OCWARNNC_11_02.mp3;W takim razie lepiej się pospiesz! Strażnicy są już pewnie niedaleko Wolnej Kopalni.;DIEGO;nobody
+INFO_DIEGO_OCWARNNC_11_04.mp3;Wcale nie muszą się przez nie przedzierać. Kilka miesięcy temu znaleźliśmy ścieżkę, która prowadzi przez góry wprost do Wolnej Kopalni. Nikt inny nie wie o jej istnieniu.;DIEGO;nobody
+INFO_DIEGO_OCGUARDS_11_02.mp3;Trzymaj się z dala od nich. Zaatakują każdego, kto spróbuje dostać się do Obozu.;DIEGO;nobody
+INFO_DIEGO_OCGUARDS_11_03.mp3;Obawiają się odwetu za napad na Wolną Kopalnię.;DIEGO;nobody
+INFO_DIEGO_OCMURDER_11_02.mp3;Corristo i jego towarzysze byli jedynymi ludźmi w obozie, którzy zachowali zimną krew.;DIEGO;nobody
+INFO_DIEGO_OCMURDER_11_03.mp3;Zabronili przeprowadzenia ataku i domagali się pertraktacji z pozostałymi obozami.;DIEGO;nobody
+INFO_DIEGO_OCMURDER_11_05.mp3;No właśnie. Corristo i jego ludzie byli zbyt zadufani w sobie. Gomez przestał im ufać i kazał ich zdradziecko zamordować.;DIEGO;nobody
+INFO_DIEGO_OCRETREAT_11_02.mp3;Zostaniemy tu jeszcze przez jakiś czas. Będziemy ostrzegali innych przyjaciół, żeby nie wpadli w łapy Strażników.;DIEGO;nobody
+INFO_DIEGO_OCRETREAT_11_03.mp3;Ale mógłbyś coś dla nas zrobić.;DIEGO;nobody
+INFO_DIEGO_OCFAVOR_11_02.mp3;Znajdź Lestera i Gorna. Muszą się dowiedzieć o tym, co się tutaj wydarzyło.;DIEGO;nobody
+INFO_DIEGO_OCFAVOR_11_03.mp3;Powiedz im, że spotkamy się we czwórkę tam gdzie zwykle.;DIEGO;nobody
+INFO_DIEGO_OCFAVOR_11_05.mp3;Dzięki, przyjacielu. Widzę, że równy z ciebie gość. Idź już. Jeszcze się kiedyś spotkamy.;DIEGO;nobody
+DIA_MUD_FIRSTEXIT_07_00.mp3;Hej, kolego! Nowy? Chyba cię jeszcze tu nie widziałem.;MUD;nobody
+DIA_MUD_FIRSTEXIT_07_01.mp3;Przyłączę się do ciebie na chwilę, jeśli nie masz nic przeciwko. Przyda ci się przyjaciel...;MUD;nobody
+DIA_MUD_FIRSTEXIT_VERPISS_07_01.mp3;Oho, nie jesteśmy w humorze, co? Lepiej będzie jak pójdę z tobą!;MUD;nobody
+DIA_MUD_FIRSTEXIT_KOMM_07_01.mp3;Świetnie. Po drodze możemy sobie trochę porozmawiać.;MUD;nobody
+DIA_MUD_SHUTUP_07_01.mp3;Jasne.;MUD;nobody
+DIA_MUD_GETLOST_07_01.mp3;Chcesz być przez chwilę sam, tak? Rozumiem... Będę się trzymał na uboczu.;MUD;nobody
+DIA_MUD_GETLOST_07_00.mp3;Hej, stary! Czemu mnie bijesz? Co ci takiego zrobiłem?;MUD;nobody
+DIA_MUD_GETLOST_07_02.mp3;Jakiś świr z ciebie, czy co? Nie chcę mieć z tobą nic wspólnego!;MUD;nobody
+DIA_MUD_NERVE_0_07_00.mp3;Powiedz, dokąd idziemy? A może to niespodzianka?! Uwielbiam niespodzianki!;MUD;nobody
+DIA_MUD_NERVE_1_07_00.mp3;Nie zwracaj na mnie uwagi. Będę się trzymał ciebie, spokojna głowa.;MUD;nobody
+DIA_MUD_NERVE_2_07_00.mp3;Zdecydowałeś się wreszcie dokąd chcesz iść?;MUD;nobody
+DIA_MUD_NERVE_3_07_00.mp3;Może szukasz jakiegoś spokojnego miejsca, gdzie moglibyśmy pogadać?;MUD;nobody
+DIA_MUD_NERVE_4_07_00.mp3;Czy to możliwe, że chodzimy w kółko... To znaczy, nie wiem dokąd chcesz iść, ale...;MUD;nobody
+DIA_MUD_NERVE_5_07_00.mp3;Ale fajnie! Dzięki, że zabrałeś mnie ze sobą! Moglibyśmy robić to częściej. Nie mam nic do roboty przez większość dnia!;MUD;nobody
+DIA_MUD_NERVE_6_07_00.mp3;Wiesz co? Już cię polubiłem! Przeżyjemy wspólnie wiele ciekawych przygód! Co nie?! Gdzie nocujesz? Jakbyś chciał, możesz przenocować u mnie!;MUD;nobody
+DIA_MUD_NERVE_7_07_00.mp3;A tak w ogóle, to za co tutaj trafiłeś? Ty też za bardzo lubisz zwierzęta? Oni krzywo na to patrzą, wiesz? Właśnie tak tutaj wylądowałem.;MUD;nobody
+DIA_MUD_NERVE_8_07_00.mp3;Kilku facetów bez przerwy próbuje mnie pobić. Paskudni ludzie z Nowego Obozu! Bandziory jedne! Następnym razem powiem im, że kto ze mną zadziera, będzie miał z tobą do czynienia! To ich nauczy!;MUD;nobody
+DIA_MUD_NERVE_9_07_00.mp3;Ale się zdziwią ci z Nowego Obozu, jak im powiem jakiego mam obrońcę! Posikają się ze strachu! Ale będzie fajnie. Normalnie zabijają ludzi bez mrugnięcia okiem, ale teraz będą musieli dobrze się zastanowić.;MUD;nobody
+DIA_MUD_NERVE_10_07_00.mp3;Wiesz co? Wyświadczę ci przysługę. Wstawię się za tobą. Może wtedy zostaniesz przyjęty do Obozu. W ten sposób moglibyśmy spotykać się codziennie.;MUD;nobody
+DIA_MUD_NERVE_11_07_00.mp3;Niektórzy tutaj mają mnie za jakiegoś wariata. Ale przecież ktoś taki jak ty nie zadawałby się z wariatem, prawda? Teraz wszyscy zrozumieją jak niesprawiedliwie mnie ocenili.;MUD;nobody
+DIA_MUD_NERVE_12_07_00.mp3;Jestem moim najlepszym kumplem, wiesz? Inni tylko próbują się mnie pozbyć. Jestem ci bardzo wdzięczny, naprawdę!;MUD;nobody
+DIA_MUD_NERVE_13_07_00.mp3;Słuchaj, całe to bieganie zaczyna mnie męczyć. Może poszukamy sobie jakiegoś przytulnego gniazdka i chwilę odpoczniemy, co?;MUD;nobody
+DIA_MUD_NERVE_14_07_00.mp3;Jesteś dla mnie jak starszy brat. Nigdy nie miałem starszego brata... Ani nawet młodszego! Moi rodzice mnie nie kochali, ale to musiało być dla nich bardzo trudne.;MUD;nobody
+DIA_MUD_NERVE_15_07_00.mp3;Skąd jesteś? Na pewno cieszysz się, że znalazłeś tu bratnią duszę, kogoś, kto cię zrozumie. Jestem z Khorinis. Byłeś tam kiedyś? Zresztą - nieważne.;MUD;nobody
+DIA_MUD_NERVE_16_07_00.mp3;Masz może dla mnie coś do jedzenia. Jestem jakby twoim gościem, więc uprzejmość nakazywałaby, abyś mnie czymś poczęstował. Nauczyłem się tego w Khorinis. Tam mieszkają uprzejmi ludzie.;MUD;nobody
+DIA_MUD_NERVE_17_07_00.mp3;Myślisz, że ktoś wpadnie do nas z wizytą? Pewnie nie, bo nie mogliby wydostać się z powrotem, co nie?;MUD;nobody
+DIA_MUD_NERVE_18_07_00.mp3;Teraz, gdy jesteśmy razem, moglibyśmy pokazać kilku ludziom, gdzie raki zimują. Te skurczybyki nachodzą mnie od lat! Jak zobaczę któregoś z nich, dam im do słuchu!;MUD;nobody
+DIA_MUD_NERVE_19_07_00.mp3;Wiesz co? Stanowimy dobraną parę. Moglibyśmy przejąć kontrolę nad całym Starym Obozem. Jesteśmy zespołem, więc powinniśmy łatwo uporać się z Magnatami. Obmyślę jakiś plan.;MUD;nobody
+SVM_1_SMALLTALK01.mp3;... co za gówno ...;SMALLTALK;nobody
+SVM_1_SMALLTALK02.mp3;... może, ale kogo to obchodzi? ...;SMALLTALK;nobody
+SVM_1_SMALLTALK03.mp3;... głupota ...;SMALLTALK;nobody
+SVM_1_SMALLTALK04.mp3;... lepiej się do tego nie mieszać ...;SMALLTALK;nobody
+SVM_1_SMALLTALK05.mp3;... nie mój problem ...;SMALLTALK;nobody
+SVM_1_SMALLTALK06.mp3;... od razu wiedziałem, że będą kłopoty ...;SMALLTALK;nobody
+SVM_1_SMALLTALK07.mp3;... dlaczego zawsze tak się dzieje? ...;SMALLTALK;nobody
+SVM_1_SMALLTALK08.mp3;... to się już nie powtórzy ...;SMALLTALK;nobody
+SVM_1_SMALLTALK09.mp3;... w tej historii musi być jednak ziarno prawdy ...;SMALLTALK;nobody
+SVM_1_SMALLTALK10.mp3;... skończ tę paplaninę, co? ...;SMALLTALK;nobody
+SVM_1_SMALLTALK11.mp3;... ja tam się nie mieszam ...;SMALLTALK;nobody
+SVM_1_SMALLTALK12.mp3;... nie powinieneś wierzyć we wszystko ...;SMALLTALK;nobody
+SVM_1_SMALLTALK13.mp3;... nie chciałbym być teraz w jego skórze ...;SMALLTALK;nobody
+SVM_1_SMALLTALK14.mp3;... zawsze to samo ...;SMALLTALK;nobody
+SVM_1_SMALLTALK15.mp3;... niektórzy nigdy się nie nauczą ...;SMALLTALK;nobody
+SVM_1_SMALLTALK16.mp3;... był czas, kiedy takie sprawy załatwiano inaczej ...;SMALLTALK;nobody
+SVM_1_SMALLTALK17.mp3;... ludzie zawsze gadają ...;SMALLTALK;nobody
+SVM_1_SMALLTALK18.mp3;... nie będę dalej słuchał tej paplaniny ...;SMALLTALK;nobody
+SVM_1_SMALLTALK19.mp3;... w dzisiejszych czasach na nikim nie można polegać, ot co! ...;SMALLTALK;nobody
+SVM_1_SMALLTALK20.mp3;... to się chyba nigdy nie skończy ...;SMALLTALK;nobody
+SVM_1_SMALLTALK21.mp3;... pewnie masz rację ...;SMALLTALK;nobody
+SVM_1_SMALLTALK22.mp3;... czekaj. Lepiej się w nic nie pakować ...;SMALLTALK;nobody
+SVM_1_SMALLTALK23.mp3;... myślałem, że to się skończyło już dawno temu ...;SMALLTALK;nobody
+SVM_1_SMALLTALK24.mp3;... pogadajmy lepiej o czymś innym ...;SMALLTALK;nobody
+SVM_2_SMALLTALK01.mp3;... jeśli myślisz, że ...;SMALLTALK;nobody
+SVM_2_SMALLTALK02.mp3;... może ...;SMALLTALK;nobody
+SVM_2_SMALLTALK03.mp3;... to nie było zbyt mądre ...;SMALLTALK;nobody
+SVM_2_SMALLTALK04.mp3;... lepiej się do tego nie mieszać ...;SMALLTALK;nobody
+SVM_2_SMALLTALK05.mp3;... to nie mój problem ...;SMALLTALK;nobody
+SVM_2_SMALLTALK06.mp3;... od razu wiedziałem, że będą kłopoty ...;SMALLTALK;nobody
+SVM_2_SMALLTALK07.mp3;... tylko zachowaj to dla siebie. Inni nie powinni wiedzieć ...;SMALLTALK;nobody
+SVM_2_SMALLTALK08.mp3;... to się już więcej nie powtórzy ...;SMALLTALK;nobody
+SVM_2_SMALLTALK09.mp3;... w tej historii musi być jednak ziarno prawdy ...;SMALLTALK;nobody
+SVM_2_SMALLTALK10.mp3;... musisz uważać na to, co mówisz przy obcych ...;SMALLTALK;nobody
+SVM_2_SMALLTALK11.mp3;... tak długo, jak mnie to nie dotyczy ...;SMALLTALK;nobody
+SVM_2_SMALLTALK12.mp3;... nie powinieneś wierzyć we wszystko ...;SMALLTALK;nobody
+SVM_2_SMALLTALK13.mp3;... ale nie chciałbym być w jego skórze ...;SMALLTALK;nobody
+SVM_2_SMALLTALK14.mp3;... zawsze to samo ...;SMALLTALK;nobody
+SVM_2_SMALLTALK15.mp3;... niektórzy nigdy się nie nauczą ...;SMALLTALK;nobody
+SVM_2_SMALLTALK16.mp3;... kiedyś takie sprawy załatwiało się inaczej ...;SMALLTALK;nobody
+SVM_2_SMALLTALK17.mp3;... ludzie zawsze gadają ...;SMALLTALK;nobody
+SVM_2_SMALLTALK18.mp3;... mam już dość tej paplaniny ...;SMALLTALK;nobody
+SVM_2_SMALLTALK19.mp3;... w dzisiejszych czasach na nikim nie można polegać, ot co! ...;SMALLTALK;nobody
+SVM_2_SMALLTALK20.mp3;... wątpię, żeby to się kiedyś zmieniło ...;SMALLTALK;nobody
+SVM_2_SMALLTALK21.mp3;... zapewne masz rację ...;SMALLTALK;nobody
+SVM_2_SMALLTALK22.mp3;... czekaj. Lepiej się w nic nie pakować ...;SMALLTALK;nobody
+SVM_2_SMALLTALK23.mp3;... myślałem, że to się skończyło już dawno temu ...;SMALLTALK;nobody
+SVM_2_SMALLTALK24.mp3;... pogadajmy lepiej o czymś innym ...;SMALLTALK;nobody
+SVM_3_SMALLTALK01.mp3;... jeśli myślisz, że ...;SMALLTALK;nobody
+SVM_3_SMALLTALK02.mp3;... może ...;SMALLTALK;nobody
+SVM_3_SMALLTALK03.mp3;... to nie było zbyt mądre ...;SMALLTALK;nobody
+SVM_3_SMALLTALK04.mp3;... lepiej się do tego nie mieszać ...;SMALLTALK;nobody
+SVM_3_SMALLTALK05.mp3;... to nie mój problem ...;SMALLTALK;nobody
+SVM_3_SMALLTALK06.mp3;... od razu wiedziałem, że będą kłopoty ...;SMALLTALK;nobody
+SVM_3_SMALLTALK07.mp3;... tylko zachowaj to dla siebie. Inni nie powinni wiedzieć ...;SMALLTALK;nobody
+SVM_3_SMALLTALK08.mp3;... to się już więcej nie powtórzy ...;SMALLTALK;nobody
+SVM_3_SMALLTALK09.mp3;... w tej historii musi być jednak ziarno prawdy ...;SMALLTALK;nobody
+SVM_3_SMALLTALK10.mp3;... musisz uważać na to, co mówisz przy obcych ...;SMALLTALK;nobody
+SVM_3_SMALLTALK11.mp3;... tak długo, jak mnie to nie dotyczy ...;SMALLTALK;nobody
+SVM_3_SMALLTALK12.mp3;... nie powinieneś wierzyć we wszystko ...;SMALLTALK;nobody
+SVM_3_SMALLTALK13.mp3;... nie chciałbym być teraz w jego skórze ...;SMALLTALK;nobody
+SVM_3_SMALLTALK14.mp3;... zawsze to samo ...;SMALLTALK;nobody
+SVM_3_SMALLTALK15.mp3;... niektórzy nigdy się nie nauczą ...;SMALLTALK;nobody
+SVM_3_SMALLTALK16.mp3;... kiedyś takie sprawy załatwiało się inaczej ...;SMALLTALK;nobody
+SVM_3_SMALLTALK17.mp3;... ludzie zawsze gadają ...;SMALLTALK;nobody
+SVM_3_SMALLTALK18.mp3;... mam już dość tej paplaniny ...;SMALLTALK;nobody
+SVM_3_SMALLTALK19.mp3;... w dzisiejszych czasach na nikim nie można polegać, ot co! ...;SMALLTALK;nobody
+SVM_3_SMALLTALK20.mp3;... to się chyba nigdy nie skończy ...;SMALLTALK;nobody
+SVM_3_SMALLTALK21.mp3;... zapewne masz rację ...;SMALLTALK;nobody
+SVM_3_SMALLTALK22.mp3;... czekaj. Lepiej się w nic nie pakować ...;SMALLTALK;nobody
+SVM_3_SMALLTALK23.mp3;... myślałem, że to się skończyło już dawno temu ...;SMALLTALK;nobody
+SVM_3_SMALLTALK24.mp3;... pogadajmy lepiej o czymś innym ...;SMALLTALK;nobody
+SVM_4_SMALLTALK01.mp3;... jeśli myślisz, że ...;SMALLTALK;nobody
+SVM_4_SMALLTALK02.mp3;... może ...;SMALLTALK;nobody
+SVM_4_SMALLTALK03.mp3;... to nie było zbyt mądre ...;SMALLTALK;nobody
+SVM_4_SMALLTALK04.mp3;... lepiej się do tego nie mieszać ...;SMALLTALK;nobody
+SVM_4_SMALLTALK05.mp3;... to nie mój problem ...;SMALLTALK;nobody
+SVM_4_SMALLTALK06.mp3;... od razu wiedziałem, że będą kłopoty ...;SMALLTALK;nobody
+SVM_4_SMALLTALK07.mp3;... tylko zachowaj to dla siebie. Inni nie powinni wiedzieć ...;SMALLTALK;nobody
+SVM_4_SMALLTALK08.mp3;... to się już więcej nie powtórzy ...;SMALLTALK;nobody
+SVM_4_SMALLTALK09.mp3;... w tej historii musi być jednak ziarno prawdy ...;SMALLTALK;nobody
+SVM_4_SMALLTALK10.mp3;... musisz uważać na to, co mówisz przy obcych ...;SMALLTALK;nobody
+SVM_4_SMALLTALK11.mp3;... tak długo, jak mnie to nie dotyczy ...;SMALLTALK;nobody
+SVM_4_SMALLTALK12.mp3;... nie powinieneś wierzyć we wszystko ...;SMALLTALK;nobody
+SVM_4_SMALLTALK13.mp3;... nie chciałbym być teraz w jego skórze ...;SMALLTALK;nobody
+SVM_4_SMALLTALK14.mp3;... zawsze to samo ...;SMALLTALK;nobody
+SVM_4_SMALLTALK15.mp3;... niektórzy nigdy się nie nauczą ...;SMALLTALK;nobody
+SVM_4_SMALLTALK16.mp3;... kiedyś takie sprawy załatwiało się inaczej ...;SMALLTALK;nobody
+SVM_4_SMALLTALK17.mp3;... ludzie zawsze gadają ...;SMALLTALK;nobody
+SVM_4_SMALLTALK18.mp3;... mam już dość tej paplaniny ...;SMALLTALK;nobody
+SVM_4_SMALLTALK19.mp3;... w dzisiejszych czasach na nikim nie można polegać, ot co! ...;SMALLTALK;nobody
+SVM_4_SMALLTALK20.mp3;... to się chyba nigdy nie skończy ...;SMALLTALK;nobody
+SVM_4_SMALLTALK21.mp3;... pewnie masz rację ...;SMALLTALK;nobody
+SVM_4_SMALLTALK22.mp3;... czekaj. Lepiej się w nic nie pakować ...;SMALLTALK;nobody
+SVM_4_SMALLTALK23.mp3;... myślałem, że to się skończyło już dawno temu ...;SMALLTALK;nobody
+SVM_4_SMALLTALK24.mp3;... pogadajmy lepiej o czymś innym ...;SMALLTALK;nobody
+SVM_5_SMALLTALK01.mp3;... jeśli myślisz, że ...;SMALLTALK;nobody
+SVM_5_SMALLTALK02.mp3;... może ...;SMALLTALK;nobody
+SVM_5_SMALLTALK03.mp3;... to nie było zbyt mądre ...;SMALLTALK;nobody
+SVM_5_SMALLTALK04.mp3;... lepiej się do tego nie mieszać ...;SMALLTALK;nobody
+SVM_5_SMALLTALK05.mp3;... to nie mój problem ...;SMALLTALK;nobody
+SVM_5_SMALLTALK06.mp3;... od razu wiedziałem, że będą kłopoty ...;SMALLTALK;nobody
+SVM_5_SMALLTALK07.mp3;... tylko zachowaj to dla siebie. Inni nie powinni wiedzieć ...;SMALLTALK;nobody
+SVM_5_SMALLTALK08.mp3;... to się już więcej nie powtórzy ...;SMALLTALK;nobody
+SVM_5_SMALLTALK09.mp3;... w tej historii musi być jednak ziarno prawdy ...;SMALLTALK;nobody
+SVM_5_SMALLTALK10.mp3;... musisz uważać na to, co mówisz przy obcych ...;SMALLTALK;nobody
+SVM_5_SMALLTALK11.mp3;... tak długo, jak mnie to nie dotyczy ...;SMALLTALK;nobody
+SVM_5_SMALLTALK12.mp3;... nie powinieneś wierzyć we wszystko ...;SMALLTALK;nobody
+SVM_5_SMALLTALK13.mp3;... nie chciałbym być teraz w jego skórze ...;SMALLTALK;nobody
+SVM_5_SMALLTALK14.mp3;... zawsze to samo ...;SMALLTALK;nobody
+SVM_5_SMALLTALK15.mp3;... niektórzy nigdy się nie nauczą ...;SMALLTALK;nobody
+SVM_5_SMALLTALK16.mp3;... kiedyś takie sprawy załatwiało się inaczej ...;SMALLTALK;nobody
+SVM_5_SMALLTALK17.mp3;... ludzie zawsze gadają ...;SMALLTALK;nobody
+SVM_5_SMALLTALK18.mp3;... mam już dość tej paplaniny ...;SMALLTALK;nobody
+SVM_5_SMALLTALK19.mp3;... w dzisiejszych czasach na nikim nie można polegać, ot co! ...;SMALLTALK;nobody
+SVM_5_SMALLTALK20.mp3;... to się chyba nigdy nie skończy ...;SMALLTALK;nobody
+SVM_5_SMALLTALK21.mp3;... pewnie masz rację ...;SMALLTALK;nobody
+SVM_5_SMALLTALK22.mp3;... czekaj. Lepiej się w nic nie pakować ...;SMALLTALK;nobody
+SVM_5_SMALLTALK23.mp3;... myślałem, że to się skończyło już dawno temu ...;SMALLTALK;nobody
+SVM_5_SMALLTALK24.mp3;... pogadajmy lepiej o czymś innym ...;SMALLTALK;nobody
+SVM_6_SMALLTALK01.mp3;... jeśli myślisz, że ...;SMALLTALK;nobody
+SVM_6_SMALLTALK02.mp3;... może ...;SMALLTALK;nobody
+SVM_6_SMALLTALK03.mp3;... to nie było zbyt mądre ...;SMALLTALK;nobody
+SVM_6_SMALLTALK04.mp3;... lepiej się do tego nie mieszać ...;SMALLTALK;nobody
+SVM_6_SMALLTALK05.mp3;... to nie mój problem ...;SMALLTALK;nobody
+SVM_6_SMALLTALK06.mp3;... od razu wiedziałem, że będą kłopoty ...;SMALLTALK;nobody
+SVM_6_SMALLTALK07.mp3;... tylko zachowaj to dla siebie. Inni nie powinni wiedzieć ...;SMALLTALK;nobody
+SVM_6_SMALLTALK08.mp3;... to się już więcej nie powtórzy ...;SMALLTALK;nobody
+SVM_6_SMALLTALK09.mp3;... w tej historii musi być jednak ziarno prawdy ...;SMALLTALK;nobody
+SVM_6_SMALLTALK10.mp3;... musisz uważać na to, co mówisz przy obcych ...;SMALLTALK;nobody
+SVM_6_SMALLTALK11.mp3;... tak długo, jak mnie to nie dotyczy ...;SMALLTALK;nobody
+SVM_6_SMALLTALK12.mp3;... nie powinieneś wierzyć we wszystko ...;SMALLTALK;nobody
+SVM_6_SMALLTALK13.mp3;... nie chciałbym być teraz w jego skórze ...;SMALLTALK;nobody
+SVM_6_SMALLTALK14.mp3;... zawsze to samo ...;SMALLTALK;nobody
+SVM_6_SMALLTALK15.mp3;... niektórzy nigdy się nie nauczą ...;SMALLTALK;nobody
+SVM_6_SMALLTALK16.mp3;... kiedyś takie sprawy załatwiało się inaczej ...;SMALLTALK;nobody
+SVM_6_SMALLTALK17.mp3;... ludzie zawsze gadają ...;SMALLTALK;nobody
+SVM_6_SMALLTALK18.mp3;... mam już dość tej paplaniny ...;SMALLTALK;nobody
+SVM_6_SMALLTALK19.mp3;... w dzisiejszych czasach na nikim nie można polegać, ot co! ...;SMALLTALK;nobody
+SVM_6_SMALLTALK20.mp3;... to się chyba nigdy nie skończy ...;SMALLTALK;nobody
+SVM_6_SMALLTALK21.mp3;... pewnie masz rację ...;SMALLTALK;nobody
+SVM_6_SMALLTALK22.mp3;... czekaj. Lepiej się w nic nie pakować ...;SMALLTALK;nobody
+SVM_6_SMALLTALK23.mp3;... myślałem, że to się skończyło już dawno temu ...;SMALLTALK;nobody
+SVM_6_SMALLTALK24.mp3;... pogadajmy lepiej o czymś innym ...;SMALLTALK;nobody
+SVM_7_SMALLTALK01.mp3;... jeśli myślisz, że ...;SMALLTALK;nobody
+SVM_7_SMALLTALK02.mp3;... może ...;SMALLTALK;nobody
+SVM_7_SMALLTALK03.mp3;... to nie było zbyt mądre ...;SMALLTALK;nobody
+SVM_7_SMALLTALK04.mp3;... lepiej się do tego nie mieszać ...;SMALLTALK;nobody
+SVM_7_SMALLTALK05.mp3;... to nie mój problem ...;SMALLTALK;nobody
+SVM_7_SMALLTALK06.mp3;... od razu wiedziałem, że będą kłopoty ...;SMALLTALK;nobody
+SVM_7_SMALLTALK07.mp3;... tylko zachowaj to dla siebie. Inni nie powinni wiedzieć ...;SMALLTALK;nobody
+SVM_7_SMALLTALK08.mp3;... to się już więcej nie powtórzy ...;SMALLTALK;nobody
+SVM_7_SMALLTALK09.mp3;... w tej historii musi być jednak ziarno prawdy ...;SMALLTALK;nobody
+SVM_7_SMALLTALK10.mp3;... musisz uważać na to, co mówisz przy obcych ...;SMALLTALK;nobody
+SVM_7_SMALLTALK11.mp3;... tak długo, jak mnie to nie dotyczy ...;SMALLTALK;nobody
+SVM_7_SMALLTALK12.mp3;... nie powinieneś wierzyć we wszystko ...;SMALLTALK;nobody
+SVM_7_SMALLTALK13.mp3;... nie chciałbym być teraz w jego skórze ...;SMALLTALK;nobody
+SVM_7_SMALLTALK14.mp3;... zawsze to samo ...;SMALLTALK;nobody
+SVM_7_SMALLTALK15.mp3;... niektórzy nigdy się nie nauczą ...;SMALLTALK;nobody
+SVM_7_SMALLTALK16.mp3;... kiedyś takie sprawy załatwiało się inaczej ...;SMALLTALK;nobody
+SVM_7_SMALLTALK17.mp3;... ludzie zawsze gadają ...;SMALLTALK;nobody
+SVM_7_SMALLTALK18.mp3;... mam już dość tej paplaniny ...;SMALLTALK;nobody
+SVM_7_SMALLTALK19.mp3;... w dzisiejszych czasach na nikim nie można polegać, ot co! ...;SMALLTALK;nobody
+SVM_7_SMALLTALK20.mp3;... to się chyba nigdy nie skończy ...;SMALLTALK;nobody
+SVM_7_SMALLTALK21.mp3;... pewnie masz rację ...;SMALLTALK;nobody
+SVM_7_SMALLTALK22.mp3;... czekaj. Lepiej się w nic nie pakować ...;SMALLTALK;nobody
+SVM_7_SMALLTALK23.mp3;... myślałem, że to się skończyło już dawno temu ...;SMALLTALK;nobody
+SVM_7_SMALLTALK24.mp3;... pogadajmy lepiej o czymś innym ...;SMALLTALK;nobody
+SVM_8_SMALLTALK01.mp3;... jeśli myślisz, że ...;SMALLTALK;nobody
+SVM_8_SMALLTALK02.mp3;... może ...;SMALLTALK;nobody
+SVM_8_SMALLTALK03.mp3;... to nie było zbyt mądre ...;SMALLTALK;nobody
+SVM_8_SMALLTALK04.mp3;... lepiej się do tego nie mieszać ...;SMALLTALK;nobody
+SVM_8_SMALLTALK05.mp3;... to nie mój problem ...;SMALLTALK;nobody
+SVM_8_SMALLTALK06.mp3;... od razu wiedziałem, że będą kłopoty ...;SMALLTALK;nobody
+SVM_8_SMALLTALK07.mp3;... tylko zachowaj to dla siebie. Inni nie powinni wiedzieć ...;SMALLTALK;nobody
+SVM_8_SMALLTALK08.mp3;... to się już więcej nie powtórzy ...;SMALLTALK;nobody
+SVM_8_SMALLTALK09.mp3;... w tej historii musi być jednak ziarno prawdy ...;SMALLTALK;nobody
+SVM_8_SMALLTALK10.mp3;... musisz uważać na to, co mówisz przy obcych ...;SMALLTALK;nobody
+SVM_8_SMALLTALK11.mp3;... tak długo, jak mnie to nie dotyczy ...;SMALLTALK;nobody
+SVM_8_SMALLTALK12.mp3;... nie powinieneś wierzyć we wszystko ...;SMALLTALK;nobody
+SVM_8_SMALLTALK13.mp3;... nie chciałbym być teraz w jego skórze ...;SMALLTALK;nobody
+SVM_8_SMALLTALK14.mp3;... zawsze to samo ...;SMALLTALK;nobody
+SVM_8_SMALLTALK15.mp3;... niektórzy nigdy się nie nauczą ...;SMALLTALK;nobody
+SVM_8_SMALLTALK16.mp3;... kiedyś takie sprawy załatwiało się inaczej ...;SMALLTALK;nobody
+SVM_8_SMALLTALK17.mp3;... ludzie zawsze gadają ...;SMALLTALK;nobody
+SVM_8_SMALLTALK18.mp3;... mam już dość tej paplaniny ...;SMALLTALK;nobody
+SVM_8_SMALLTALK19.mp3;... w dzisiejszych czasach na nikim nie można polegać, ot co! ...;SMALLTALK;nobody
+SVM_8_SMALLTALK20.mp3;... to się chyba nigdy nie skończy ...;SMALLTALK;nobody
+SVM_8_SMALLTALK21.mp3;... pewnie masz rację ...;SMALLTALK;nobody
+SVM_8_SMALLTALK22.mp3;... czekaj. Lepiej się w nic nie pakować ...;SMALLTALK;nobody
+SVM_8_SMALLTALK23.mp3;... myślałem, że to się skończyło już dawno temu ...;SMALLTALK;nobody
+SVM_8_SMALLTALK24.mp3;... pogadajmy lepiej o czymś innym ...;SMALLTALK;nobody
+SVM_9_SMALLTALK01.mp3;... cóż, jeśli tak uważasz ...;SMALLTALK;nobody
+SVM_9_SMALLTALK02.mp3;... może ...;SMALLTALK;nobody
+SVM_9_SMALLTALK03.mp3;... to nie było zbyt mądre ...;SMALLTALK;nobody
+SVM_9_SMALLTALK04.mp3;... lepiej się do tego nie mieszać ...;SMALLTALK;nobody
+SVM_9_SMALLTALK05.mp3;... to nie mój problem ...;SMALLTALK;nobody
+SVM_9_SMALLTALK06.mp3;... od razu wiedziałem, że będą kłopoty ...;SMALLTALK;nobody
+SVM_9_SMALLTALK07.mp3;... tylko zachowaj to dla siebie. Inni nie powinni wiedzieć ...;SMALLTALK;nobody
+SVM_9_SMALLTALK08.mp3;... to się już więcej nie powtórzy ...;SMALLTALK;nobody
+SVM_9_SMALLTALK09.mp3;... w tej historii musi być jednak ziarno prawdy ...;SMALLTALK;nobody
+SVM_9_SMALLTALK10.mp3;... musisz uważać na to, co mówisz przy obcych ...;SMALLTALK;nobody
+SVM_9_SMALLTALK11.mp3;... tak długo, jak mnie to nie dotyczy ...;SMALLTALK;nobody
+SVM_9_SMALLTALK12.mp3;... nie powinieneś wierzyć we wszystko ...;SMALLTALK;nobody
+SVM_9_SMALLTALK13.mp3;... nie chciałbym być teraz w jego skórze ...;SMALLTALK;nobody
+SVM_9_SMALLTALK14.mp3;... zawsze to samo ...;SMALLTALK;nobody
+SVM_9_SMALLTALK15.mp3;... niektórzy nigdy się nie nauczą ...;SMALLTALK;nobody
+SVM_9_SMALLTALK16.mp3;... kiedyś takie sprawy załatwiało się inaczej ...;SMALLTALK;nobody
+SVM_9_SMALLTALK17.mp3;... ludzie zawsze gadają ...;SMALLTALK;nobody
+SVM_9_SMALLTALK18.mp3;... mam już dość tej paplaniny ...;SMALLTALK;nobody
+SVM_9_SMALLTALK19.mp3;... w dzisiejszych czasach na nikim nie można polegać, ot co! ...;SMALLTALK;nobody
+SVM_9_SMALLTALK20.mp3;... to się chyba nigdy nie skończy ...;SMALLTALK;nobody
+SVM_9_SMALLTALK21.mp3;... tak, pewnie masz rację ...;SMALLTALK;nobody
+SVM_9_SMALLTALK22.mp3;... czekaj. Lepiej się w nic nie pakować ...;SMALLTALK;nobody
+SVM_9_SMALLTALK23.mp3;... myślałem, że to się skończyło już dawno temu ...;SMALLTALK;nobody
+SVM_9_SMALLTALK24.mp3;... pogadajmy lepiej o czymś innym ...;SMALLTALK;nobody
+SVM_10_SMALLTALK01.mp3;... jeśli myślisz, że ...;SMALLTALK;nobody
+SVM_10_SMALLTALK02.mp3;... może ...;SMALLTALK;nobody
+SVM_10_SMALLTALK03.mp3;... to nie było zbyt mądre ...;SMALLTALK;nobody
+SVM_10_SMALLTALK04.mp3;... lepiej się do tego nie mieszać ...;SMALLTALK;nobody
+SVM_10_SMALLTALK05.mp3;... to nie mój problem ...;SMALLTALK;nobody
+SVM_10_SMALLTALK06.mp3;... od razu wiedziałem, że będą kłopoty ...;SMALLTALK;nobody
+SVM_10_SMALLTALK07.mp3;... tylko zachowaj to dla siebie. Inni nie powinni wiedzieć ...;SMALLTALK;nobody
+SVM_10_SMALLTALK08.mp3;... to się już więcej nie powtórzy ...;SMALLTALK;nobody
+SVM_10_SMALLTALK09.mp3;... w tej historii musi być jednak ziarno prawdy ...;SMALLTALK;nobody
+SVM_10_SMALLTALK10.mp3;... musisz uważać na to, co mówisz przy obcych ...;SMALLTALK;nobody
+SVM_10_SMALLTALK11.mp3;... tak długo, jak mnie to nie dotyczy ...;SMALLTALK;nobody
+SVM_10_SMALLTALK12.mp3;... nie powinieneś wierzyć we wszystko ...;SMALLTALK;nobody
+SVM_10_SMALLTALK13.mp3;... nie chciałbym być teraz w jego skórze ...;SMALLTALK;nobody
+SVM_10_SMALLTALK14.mp3;... zawsze to samo ...;SMALLTALK;nobody
+SVM_10_SMALLTALK15.mp3;... niektórzy nigdy się nie nauczą ...;SMALLTALK;nobody
+SVM_10_SMALLTALK16.mp3;... kiedyś takie sprawy załatwiało się inaczej ...;SMALLTALK;nobody
+SVM_10_SMALLTALK17.mp3;... ludzie zawsze gadają ...;SMALLTALK;nobody
+SVM_10_SMALLTALK18.mp3;... mam już dość tej paplaniny ...;SMALLTALK;nobody
+SVM_10_SMALLTALK19.mp3;... w dzisiejszych czasach na nikim nie można polegać, ot co! ...;SMALLTALK;nobody
+SVM_10_SMALLTALK20.mp3;... to się chyba nigdy nie zmieni ...;SMALLTALK;nobody
+SVM_10_SMALLTALK21.mp3;... pewnie masz rację ...;SMALLTALK;nobody
+SVM_10_SMALLTALK22.mp3;... czekaj. Lepiej się w nic nie pakować ...;SMALLTALK;nobody
+SVM_10_SMALLTALK23.mp3;... myślałem, że to się skończyło już dawno temu ...;SMALLTALK;nobody
+SVM_10_SMALLTALK24.mp3;... pogadajmy lepiej o czymś innym ...;SMALLTALK;nobody
+SVM_11_SMALLTALK01.mp3;... jeśli myślisz, że ...;SMALLTALK;nobody
+SVM_11_SMALLTALK02.mp3;... może ...;SMALLTALK;nobody
+SVM_11_SMALLTALK03.mp3;... to nie było zbyt mądre ...;SMALLTALK;nobody
+SVM_11_SMALLTALK04.mp3;... lepiej się do tego nie mieszać ...;SMALLTALK;nobody
+SVM_11_SMALLTALK05.mp3;... to nie mój problem ...;SMALLTALK;nobody
+SVM_11_SMALLTALK06.mp3;... od razu wiedziałem, że będą kłopoty ...;SMALLTALK;nobody
+SVM_11_SMALLTALK07.mp3;... tylko zachowaj to dla siebie. Inni nie powinni wiedzieć ...;SMALLTALK;nobody
+SVM_11_SMALLTALK08.mp3;... to się już więcej nie powtórzy ...;SMALLTALK;nobody
+SVM_11_SMALLTALK09.mp3;... w tej historii musi być jednak ziarno prawdy ...;SMALLTALK;nobody
+SVM_11_SMALLTALK10.mp3;... musisz uważać na to, co mówisz przy obcych ...;SMALLTALK;nobody
+SVM_11_SMALLTALK11.mp3;... tak długo, jak mnie to nie dotyczy ...;SMALLTALK;nobody
+SVM_11_SMALLTALK12.mp3;... nie powinieneś wierzyć we wszystko ...;SMALLTALK;nobody
+SVM_11_SMALLTALK13.mp3;... nie chciałbym być teraz w jego skórze ...;SMALLTALK;nobody
+SVM_11_SMALLTALK14.mp3;... zawsze to samo ...;SMALLTALK;nobody
+SVM_11_SMALLTALK15.mp3;... niektórzy nigdy się nie nauczą ...;SMALLTALK;nobody
+SVM_11_SMALLTALK16.mp3;... kiedyś takie sprawy załatwiało się inaczej ...;SMALLTALK;nobody
+SVM_11_SMALLTALK17.mp3;... ludzie zawsze gadają ...;SMALLTALK;nobody
+SVM_11_SMALLTALK18.mp3;... mam już dość tej paplaniny ...;SMALLTALK;nobody
+SVM_11_SMALLTALK19.mp3;... w dzisiejszych czasach na nikim nie można polegać, ot co! ...;SMALLTALK;nobody
+SVM_11_SMALLTALK20.mp3;... to się chyba nigdy nie zmieni ...;SMALLTALK;nobody
+SVM_11_SMALLTALK21.mp3;... pewnie masz rację ...;SMALLTALK;nobody
+SVM_11_SMALLTALK22.mp3;... czekaj. Lepiej się w nic nie pakować ...;SMALLTALK;nobody
+SVM_11_SMALLTALK23.mp3;... myślałem, że to się skończyło już dawno temu ...;SMALLTALK;nobody
+SVM_11_SMALLTALK24.mp3;... pogadajmy lepiej o czymś innym ...;SMALLTALK;nobody
+SVM_12_SMALLTALK01.mp3;... jeśli myślisz, że ...;SMALLTALK;nobody
+SVM_12_SMALLTALK02.mp3;... może ...;SMALLTALK;nobody
+SVM_12_SMALLTALK03.mp3;... to nie było zbyt mądre ...;SMALLTALK;nobody
+SVM_12_SMALLTALK04.mp3;... lepiej się do tego nie mieszać ...;SMALLTALK;nobody
+SVM_12_SMALLTALK05.mp3;... to nie mój problem ...;SMALLTALK;nobody
+SVM_12_SMALLTALK06.mp3;... od razu wiedziałem, że będą kłopoty ...;SMALLTALK;nobody
+SVM_12_SMALLTALK07.mp3;... tylko zachowaj to dla siebie. Inni nie powinni wiedzieć ...;SMALLTALK;nobody
+SVM_12_SMALLTALK08.mp3;... to się już więcej nie powtórzy ...;SMALLTALK;nobody
+SVM_12_SMALLTALK09.mp3;... w tej historii musi być jednak ziarno prawdy ...;SMALLTALK;nobody
+SVM_12_SMALLTALK10.mp3;... musisz uważać na to, co mówisz przy obcych ...;SMALLTALK;nobody
+SVM_12_SMALLTALK11.mp3;... tak długo, jak mnie to nie dotyczy ...;SMALLTALK;nobody
+SVM_12_SMALLTALK12.mp3;... nie powinieneś wierzyć we wszystko ...;SMALLTALK;nobody
+SVM_12_SMALLTALK13.mp3;... nie chciałbym być teraz w jego skórze ...;SMALLTALK;nobody
+SVM_12_SMALLTALK14.mp3;... zawsze to samo ...;SMALLTALK;nobody
+SVM_12_SMALLTALK15.mp3;... niektórzy nigdy się nie nauczą ...;SMALLTALK;nobody
+SVM_12_SMALLTALK16.mp3;... kiedyś takie sprawy załatwiało się inaczej ...;SMALLTALK;nobody
+SVM_12_SMALLTALK17.mp3;... ludzie zawsze gadają ...;SMALLTALK;nobody
+SVM_12_SMALLTALK18.mp3;... mam już dość tej paplaniny ...;SMALLTALK;nobody
+SVM_12_SMALLTALK19.mp3;... w dzisiejszych czasach na nikim nie można polegać, ot co! ...;SMALLTALK;nobody
+SVM_12_SMALLTALK20.mp3;... to się chyba nigdy nie zmieni ...;SMALLTALK;nobody
+SVM_12_SMALLTALK21.mp3;... pewnie masz rację ...;SMALLTALK;nobody
+SVM_12_SMALLTALK22.mp3;... czekaj. Lepiej się w nic nie pakować ...;SMALLTALK;nobody
+SVM_12_SMALLTALK23.mp3;... myślałem, że to się skończyło już dawno temu ...;SMALLTALK;nobody
+SVM_12_SMALLTALK24.mp3;... pogadajmy lepiej o czymś innym ...;SMALLTALK;nobody
+SVM_13_SMALLTALK01.mp3;... jeśli myślisz, że ...;SMALLTALK;nobody
+SVM_13_SMALLTALK02.mp3;... może ...;SMALLTALK;nobody
+SVM_13_SMALLTALK03.mp3;... to nie było zbyt mądre ...;SMALLTALK;nobody
+SVM_13_SMALLTALK04.mp3;... lepiej się do tego nie mieszać ...;SMALLTALK;nobody
+SVM_13_SMALLTALK05.mp3;... to nie mój problem ...;SMALLTALK;nobody
+SVM_13_SMALLTALK06.mp3;... od razu wiedziałem, że będą kłopoty ...;SMALLTALK;nobody
+SVM_13_SMALLTALK07.mp3;... tylko zachowaj to dla siebie. Inni nie powinni wiedzieć ...;SMALLTALK;nobody
+SVM_13_SMALLTALK08.mp3;... to się już więcej nie powtórzy ...;SMALLTALK;nobody
+SVM_13_SMALLTALK09.mp3;... w tej historii musi być jednak ziarno prawdy ...;SMALLTALK;nobody
+SVM_13_SMALLTALK10.mp3;... musisz uważać na to, co mówisz przy obcych ...;SMALLTALK;nobody
+SVM_13_SMALLTALK11.mp3;... tak długo, jak mnie to nie dotyczy ...;SMALLTALK;nobody
+SVM_13_SMALLTALK12.mp3;... nie powinieneś wierzyć we wszystko ...;SMALLTALK;nobody
+SVM_13_SMALLTALK13.mp3;... nie chciałbym być teraz w jego skórze ...;SMALLTALK;nobody
+SVM_13_SMALLTALK14.mp3;... zawsze to samo ...;SMALLTALK;nobody
+SVM_13_SMALLTALK15.mp3;... niektórzy nigdy się nie nauczą ...;SMALLTALK;nobody
+SVM_13_SMALLTALK16.mp3;... kiedyś takie sprawy załatwiało się inaczej ...;SMALLTALK;nobody
+SVM_13_SMALLTALK17.mp3;... ludzie zawsze gadają ...;SMALLTALK;nobody
+SVM_13_SMALLTALK18.mp3;... mam już dość tej paplaniny ...;SMALLTALK;nobody
+SVM_13_SMALLTALK19.mp3;... w dzisiejszych czasach na nikim nie można polegać, ot co! ...;SMALLTALK;nobody
+SVM_13_SMALLTALK20.mp3;... to się chyba nigdy nie zmieni ...;SMALLTALK;nobody
+SVM_13_SMALLTALK21.mp3;... pewnie masz rację ...;SMALLTALK;nobody
+SVM_13_SMALLTALK22.mp3;... czekaj. Lepiej się w nic nie pakować ...;SMALLTALK;nobody
+SVM_13_SMALLTALK23.mp3;... myślałem, że to się skończyło już dawno temu ...;SMALLTALK;nobody
+SVM_13_SMALLTALK24.mp3;... pogadajmy lepiej o czymś innym ...;SMALLTALK;nobody
+SVM_14_SMALLTALK01.mp3;... jeśli myślisz, że ...;SMALLTALK;nobody
+SVM_14_SMALLTALK02.mp3;... może ...;SMALLTALK;nobody
+SVM_14_SMALLTALK03.mp3;... to nie było zbyt mądre ...;SMALLTALK;nobody
+SVM_14_SMALLTALK04.mp3;... lepiej się do tego nie mieszać ...;SMALLTALK;nobody
+SVM_14_SMALLTALK05.mp3;... to nie mój problem ...;SMALLTALK;nobody
+SVM_14_SMALLTALK06.mp3;... od razu wiedziałem, że będą kłopoty ...;SMALLTALK;nobody
+SVM_14_SMALLTALK07.mp3;... tylko zachowaj to dla siebie. Inni nie powinni wiedzieć ...;SMALLTALK;nobody
+SVM_14_SMALLTALK08.mp3;... to się już więcej nie powtórzy ...;SMALLTALK;nobody
+SVM_14_SMALLTALK09.mp3;... w tej historii musi być jednak ziarno prawdy ...;SMALLTALK;nobody
+SVM_14_SMALLTALK10.mp3;... musisz uważać na to, co mówisz przy obcych ...;SMALLTALK;nobody
+SVM_14_SMALLTALK11.mp3;... tak długo, jak mnie to nie dotyczy ...;SMALLTALK;nobody
+SVM_14_SMALLTALK12.mp3;... nie powinieneś wierzyć we wszystko ...;SMALLTALK;nobody
+SVM_14_SMALLTALK13.mp3;... nie chciałbym być teraz w jego skórze ...;SMALLTALK;nobody
+SVM_14_SMALLTALK14.mp3;... zawsze to samo ...;SMALLTALK;nobody
+SVM_14_SMALLTALK15.mp3;... niektórzy nigdy się nie nauczą ...;SMALLTALK;nobody
+SVM_14_SMALLTALK16.mp3;... kiedyś takie sprawy załatwiało się inaczej ...;SMALLTALK;nobody
+SVM_14_SMALLTALK17.mp3;... ludzie zawsze gadają ...;SMALLTALK;nobody
+SVM_14_SMALLTALK18.mp3;... mam już dość tej paplaniny ...;SMALLTALK;nobody
+SVM_14_SMALLTALK19.mp3;... w dzisiejszych czasach na nikim nie można polegać, ot co! ...;SMALLTALK;nobody
+SVM_14_SMALLTALK20.mp3;... to się chyba nigdy nie zmieni ...;SMALLTALK;nobody
+SVM_14_SMALLTALK21.mp3;... pewnie masz rację ...;SMALLTALK;nobody
+SVM_14_SMALLTALK22.mp3;... czekaj. Lepiej się w nic nie pakować ...;SMALLTALK;nobody
+SVM_14_SMALLTALK23.mp3;... myślałem, że to się skończyło już dawno temu ...;SMALLTALK;nobody
+SVM_14_SMALLTALK24.mp3;... pogadajmy lepiej o czymś innym ...;SMALLTALK;nobody
