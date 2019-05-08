@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/dialog_look"
+    >
+
+    <TextView
+        android:text="Character"
+        android:textSize="22dp"
+        android:layout_width="match_parent"
+        android:layout_height="39.5dp"
+        android:minWidth="25px"
+        android:minHeight="50px"
+        android:gravity="center_vertical|start"
+        android:textColor="#f1f1f1"
+        android:paddingLeft="15dp"
+        android:background="@drawable/dialog_look"
+        android:id="@+id/textView_character"/>
+    <TextView
+        android:padding="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="5dp"
+        android:textSize="13dp"
+        android:text="dialog i can't even understand how is it possible"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView_dialog"
+        android:textColor="#d5c0b2"
+        android:fontFamily="monospace"
+        android:lineSpacingExtra="4dp"
+        />
+
+</LinearLayout>

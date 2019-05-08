@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+
+  <!--For CustomFontsThroughLayout.axml Example-->
+  <declare-styleable name="CustomFonts">
+    <attr name="customFont" format="string" />
+  </declare-styleable>
+
+</resources>

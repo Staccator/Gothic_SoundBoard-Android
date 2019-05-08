@@ -1,0 +1,5 @@
+﻿<resources>
+  <string name="app_name">Gothic Soundboard</string>
+  <string name="action_settings">Settings</string>
+  <string name="file_provider_authority" translatable="false">com.quiro.fileproviderexample.fileprovider</string>
+</resources>
