@@ -7,7 +7,6 @@ Available for android versions ranging from 5.1 to 9.0. Storage permissions are 
 
 # Screenshots
 
-Here are some screenshots from app.
 
 Main Screen | Small Talk 
 ------------ | -------------
