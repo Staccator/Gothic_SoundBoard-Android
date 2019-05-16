@@ -3,5 +3,12 @@ SoundBoard with a few functionalities, such as SmallTalk, addings sounds to favo
 
 # How to use it
 In order to install it on your phone, simply download apk from Release section and open it on your mobile device.
-Available for android versions ranging from 5.1 to 9.0. Storage permissions are needed for sending files, if you disable them you won't be able to do it.
+Available for android versions ranging from 5.1 to 9.0. Storage permissions are needed for sending files, if they are disabled then you won't be able to share dialogs. You would probably need to do set them manually, just go to the Settings/Applications/Gothic_Soundboard and set "Writing to internal storage" to true.
 
+# Screenshots
+![alt text](https://github.com/Staccator/Gothic_SoundBoard-Android/blob/master/Screenshots/1.jpg)
+![alt text](https://github.com/Staccator/Gothic_SoundBoard-Android/blob/master/Screenshots/2.jpg)
+![alt text](https://github.com/Staccator/Gothic_SoundBoard-Android/blob/master/Screenshots/3.jpg)
+![alt text](https://github.com/Staccator/Gothic_SoundBoard-Android/blob/master/Screenshots/4.jpg)
+![alt text](https://github.com/Staccator/Gothic_SoundBoard-Android/blob/master/Screenshots/5.jpg)
+![alt text](https://github.com/Staccator/Gothic_SoundBoard-Android/blob/master/Screenshots/6.jpg)
